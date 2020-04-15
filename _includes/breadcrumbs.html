@@ -1,0 +1,28 @@
+{% case page.category %}
+  {% when 'projeto1' %}{% assign title = "PROJETO1" %}
+  {% when 'projeto2' %}{% assign title = "PROJETO2" %}
+  {% when 'projeto3' %}{% assign title = "PROJETO3" %}
+  {% when 'projeto4' %}{% assign title = "PROJETO4" %}
+  {% when 'projeto5' %}{% assign title = "PROJETO5" %}
+  {% when 'projeto6' %}{% assign title = "PROJETO6" %}
+  {% when 'projeto7' %}{% assign title = "PROJETO7" %}
+  {% when 'projeto8' %}{% assign title = "PROJETO8" %}
+  {% when 'projeto9' %}{% assign title = "PROJETO9" %}
+  {% when 'projeto10' %}{% assign title = "PROJETO10" %}
+  {% when 'projeto11' %}{% assign title = "PROJETO11" %}
+  {% when 'projeto12' %}{% assign title = "PROJETO12" %}
+  {% when 'projeto13' %}{% assign title = "PROJETO13" %}
+  {% when 'projeto14' %}{% assign title = "PROJETO14" %}
+  {% when 'projeto15' %}{% assign title = "PROJETO15" %}
+  {% when 'projeto16' %}{% assign title = "PROJETO16" %}
+  {% when 'projeto17' %}{% assign title = "PROJETO17" %}
+  {% when 'projeto18' %}{% assign title = "PROJETO18" %}
+  {% when 'projeto19' %}{% assign title = "PROJETO19" %}
+  {% when 'projeto20' %}{% assign title = "PROJETO20" %}
+{% endcase %}
+
+<section class="list-wrapper breadcrumbs-container">
+  <a href="{{ site.baseurl }}/" class="breadcrumb-item">HOME</a> >
+  <a href=".." class="breadcrumb-item">{{ title }}</a> >
+  <span class="breadcrumb-item breadcrumb-selected">{{ page.title }}</span>
+</section>

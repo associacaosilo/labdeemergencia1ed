@@ -1,0 +1,24 @@
+{% assign day = page.date | date : "%d" %}
+{% assign month = page.date | date: "%m"  %}
+{% case month %}
+  {% when '01' %}{% assign month = "Janeiro" %}
+  {% when '02' %}{% assign month = "Fevereiro" %}
+  {% when '03' %}{% assign month = "Março" %}
+  {% when '04' %}{% assign month = "Abril" %}
+  {% when '05' %}{% assign month = "Maio" %}
+  {% when '06' %}{% assign month = "Junho" %}
+  {% when '07' %}{% assign month = "Julho" %}
+  {% when '08' %}{% assign month = "Agosto" %}
+  {% when '09' %}{% assign month = "Setembro" %}
+  {% when '10' %}{% assign month = "Outubro" %}
+  {% when '11' %}{% assign month = "Novembro" %}
+  {% else %}{% assign month = "Dezembro" %}
+{% endcase %}
+
+{% if page.lang == 'en' or page.lang == 'english' %}
+  {% assign month = page.date | date: "%B" %}
+{% endif %}
+
+<h3 class="post-date">
+  {{ day }} {{ month }} - {{ page.date | date: "%Y" }}
+</h3>

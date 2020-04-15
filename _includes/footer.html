@@ -1,0 +1,40 @@
+<div class="footer">
+  <div class="footer-line">Silo - Arte e Latitude Rural</div>
+  <a class="footer-line" href="mailto:labdeemergencia@silo.org.br" target="_blank">labdeemergencia@silo.org.br</a>
+  <div class="footer-line">
+    {% include social-icons.html %}
+  </div>
+</div>
+
+{% if page.permalink == '/' %}
+  <div class="footer">
+    <div class="footer-line">Apoio:</div>
+    <a href="https://twitter.com/amerek_ufmg/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/amerek.png');"></div>
+    </a>
+    <a href="https://datalabe.org/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/datalabe.png');"></div>
+    </a>
+    <a href="http://www.gambiologia.net/blog/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/gambiologia.png');"></div>
+    </a>
+    <a href="http://www.generonumero.media/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/generonumero.png');"></div>
+    </a>
+    <a href="https://hortainteligente.wixsite.com/hortainteligente" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/hortainteligente.png');"></div>
+    </a>
+    <a href="https://www.olabi.org.br/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/olabi.png');"></div>
+    </a>
+    <a href="https://www.pretalab.com/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/pretalab.png');"></div>
+    </a>
+    <a href="https://www.procomum.org/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/procomum.png');"></div>
+    </a>
+    <a href="https://silo.org.br/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/silo.png');"></div>
+    </a>
+  </div>
+{% endif %}

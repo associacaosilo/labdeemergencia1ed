@@ -1,0 +1,11 @@
+<div class="swipebox-gallery">
+  {% for file in site.static_files %}
+    {% if file.path contains include.prefix and file.path contains include.project %}
+      <a rel="{{ include.prefix }}" href="{{ site.baseurl }}{{ file.path }}" class="swipebox"  title="{{ include.subtitle }}">
+        <img src="{{ site.baseurl }}{{ file.path }}" alt="{{ include.subtitle }}">
+      </a>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<script src="{{ site.baseurl }}/js/swipebox.js"></script>
