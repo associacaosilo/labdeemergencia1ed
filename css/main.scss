@@ -562,7 +562,7 @@ i.fa-1_5x {
 }
 
 .parceira-logo {
-  height: 90px;
+  height: 80px;
   background-repeat: no-repeat;
   background-size: contain;
   background-position: left center;
@@ -572,15 +572,15 @@ i.fa-1_5x {
   &:hover {
     filter: grayscale(0%);
   }
- //width: 10%; 
- //float: left;
- //padding: 30px;
+ width: 10%; 
+ float: left;
+ padding: 20px;
 }
 
 .parceiras-container {
     width: 100%;
     margin-top: 15px;
-    display: flex;
+    //display: flex;
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: space-between;
