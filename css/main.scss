@@ -4,6 +4,14 @@
 @import 'constants';
 @import url('fonts.css');
 
+.wrap {
+//  width: 320px;
+//  border: 1px solid #ccc;
+//  height: 480px;
+  overflow: auto;
+  position: relative;
+}
+
 html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
