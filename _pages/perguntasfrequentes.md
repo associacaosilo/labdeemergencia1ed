@@ -9,6 +9,10 @@ people:
     url: https://touca.ninja
 ---
 
+![](/media/images/covers/cover3.jpg)
+
+# PERGUNTAS FREQUENTES
+
 **Posso enviar mais de 1 projeto?**
 
 Sim, porém não aconselhamos.
@@ -27,7 +31,7 @@ Divulgaremos seu projeto e tentaremos angariar mais colaboradores no perfil indi
 Sim, pois, à medida que .s colaborador.s se inscrevem, compartilharemos o link para que possam começar a se organizar antes do começo do lab.
 
 
-# Links externos projetos desenvolvidos em lab parceiro:
+**Links externos projetos desenvolvidos em lab parceiro:**
   
 [Frena la curva](https://frenalacurva.net/){:target="_blank"}
   
