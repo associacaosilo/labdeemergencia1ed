@@ -273,6 +273,13 @@ a {
   }
 }
 
+.fixed-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%; 
+}
+
 .breadcrumb-item {
   text-decoration: underline;
   font-weight: 900;
@@ -381,7 +388,7 @@ a {
 }
 
 .list-wrapper {
-  width: 80%;
+  width: 85%;
   margin: 0 auto;
   @include media-query(DESKTOP) {
     width: 100%;//era 85%
