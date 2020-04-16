@@ -5,7 +5,11 @@ subtitle: SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES 
 permalink: /
 ---
 
+<br>
+  
+![](/media/images/covers/cover5.png)
 
+  
 Dada a situação de isolamento devido ao coronavírus, convidamos você a criar iniciativas colaborativas nos próximos 12 dias em quatro fases:
   
 * Chamada de ideias e propostas:  mapeamento de necessidades e coleta de boas propostas para enfrentar a situação atual por meio de uma chamada aberta. Podem ser novas ideias ou projetos que estão em andamento em outros lugares. Ou iniciativas que estão trabalhando em pequena escala e desejam expandir seu alcance.
