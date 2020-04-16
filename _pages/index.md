@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Laboratório de Emergência | COVID 19
-subtitle: SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES DE ISOLAMENTO
+subtitle: <br>SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES DE ISOLAMENTO
 permalink: /
 ---
 
@@ -58,6 +58,8 @@ Tantas propostas serão desenvolvidas quanto pudermos gerenciar juntos. Os proj
 Propomos um calendário indicativo para o desenvolvimento ágil de projetos. Sugerimos alguns marcos para tentar ir todos juntos nas diferentes fases.
   
 O laboratório não oferece recursos financeiros ou materiais para o desenvolvimento do projeto. Em cada caso, será avaliada a maneira de conectar o projeto a potenciais colaboradores que possam contribuir com os recursos necessários para sua implementação.
+
+![](/media/images/post1.jpg)
   
 **Calendário do Laboratório de Emergência:**
   
@@ -78,16 +80,14 @@ Se você tiver alguma dúvida, escreva-nos para: labdeemergencia@silo.org.br.
 
 ESSA É UMA INICIATIVA EM PARCERIA COM:
 
-DATALABE
-GAMBIÓLOGOS
-GÊNERO E NÚMERO
-HORTA INTELIGENTE
-INSTITUTO PROCOMUM
-LAB INVENTA
-OLABI
-PRETALAB
-SILO ARTE E LATITUDE RURAL
+* DATALABE
+* GAMBIÓLOGOS
+* GÊNERO E NÚMERO
+* HORTA INTELIGENTE
+* INSTITUTO PROCOMUM
+* LAB INVENTA
+* OLABI
+* PRETALAB
+* SILO ARTE E LATITUDE RURAL
 
 ESSA CHAMADA É INSPIRADA NA CONVOCATÓRIA DO LABORATÓRIO CIDADÃO DISTRIBUÍDO - FRENA LA CURVA - REALIZADO EM MARÇO DE 2020 NA ESPANHA.
-
-![](/media/images/post1.jpg) ![](/media/images/post2.jpg)
