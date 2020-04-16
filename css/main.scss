@@ -4,12 +4,14 @@
 @import 'constants';
 @import url('fonts.css');
 
-.wrap {
+.stick {
 //  width: 320px;
 //  border: 1px solid #ccc;
 //  height: 480px;
   overflow: auto;
-  position: relative;
+  position: sticky;
+  z-index: 1;
+  top: 5%;
 }
 
 html {
@@ -254,14 +256,9 @@ a {
 
 .title-section {
   display: none;
+  width: 100% ;
   @include media-query(DESKTOP) {
     display: block;
-  }
-  .fixed-title {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%; 
   }
 }
 
