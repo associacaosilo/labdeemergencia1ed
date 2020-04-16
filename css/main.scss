@@ -384,7 +384,7 @@ a {
   width: 100%;
   margin: 0 auto;
   @include media-query(DESKTOP) {
-    width: 85%;
+    width: 100%;//era 85%
   }
 
   h2 {
