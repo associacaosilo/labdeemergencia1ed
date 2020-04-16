@@ -89,7 +89,9 @@ Se você tiver alguma dúvida, escreva-nos para: [labdeemergencia@silo.org.br](m
 
 **ESSA É UMA INICIATIVA EM PARCERIA COM:**
 
+* [AMEREK](https://twitter.com/amerek_ufmg){:target="_blank"}
 * [DATALABE](https://datalabe.org/){:target="_blank"}
+* [FRENA LA CURVA](https://frenalacurva.net/){:target="_blank"}
 * [GAMBIOLOGIA](http://www.gambiologia.net/blog/){:target="_blank"}
 * [GÊNERO E NÚMERO](http://www.generonumero.media/){:target="_blank"}
 * [HORTA INTELIGENTE](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}
@@ -100,4 +102,4 @@ Se você tiver alguma dúvida, escreva-nos para: [labdeemergencia@silo.org.br](m
 * [SEGURA A ONDA](https://seguraaonda.com.br/){:target="_blank"}
 * [SILO ARTE E LATITUDE RURAL](https://silo.org.br/){:target="_blank"}
 
-ESSA CHAMADA É INSPIRADA NA CONVOCATÓRIA DO LABORATÓRIO CIDADÃO DISTRIBUÍDO - FRENA LA CURVA - REALIZADO EM MARÇO DE 2020 NA ESPANHA.
+**ESSA CHAMADA É INSPIRADA NA CONVOCATÓRIA DO LABORATÓRIO CIDADÃO DISTRIBUÍDO - [FRENA LA CURVA](https://frenalacurva.net/){:target="_blank"} - REALIZADO EM MARÇO DE 2020 NA ESPANHA.**
