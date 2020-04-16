@@ -5,7 +5,6 @@ subtitle: SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES 
 permalink: /
 ---
 
-![](/media/images/covers/cover2.jpg)
 
 Dada a situação de isolamento devido ao coronavírus, convidamos você a criar iniciativas colaborativas nos próximos 12 dias em quatro fases:
   

@@ -9,8 +9,6 @@ people:
     url: https://touca.ninja
 ---
 
-![](/media/images/covers/cover3.jpg)
-
 **Posso enviar mais de 1 projeto?**
 
 Sim, porém não aconselhamos. É importante que consiga gerenciar mais de um projeto paralelamente via telegram ou whatsapp. O laboratório acontecerá em apenas 4 dias, provavelmente muito intensos.
