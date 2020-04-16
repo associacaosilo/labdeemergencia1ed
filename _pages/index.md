@@ -90,5 +90,4 @@ SILO ARTE E LATITUDE RURAL
 
 ESSA CHAMADA É INSPIRADA NA CONVOCATÓRIA DO LABORATÓRIO CIDADÃO DISTRIBUÍDO - FRENA LA CURVA - REALIZADO EM MARÇO DE 2020 NA ESPANHA.
 
-![](/media/images/post1.jpg)
-![](/media/images/post2.jpg)
+![](/media/images/post1.jpg) ![](/media/images/post2.jpg)
