@@ -29,12 +29,6 @@ Sim, pois, à medida que .s colaborador.s se inscrevem, compartilharemos o link 
   
 Não. Os projetos submetidos não devem:  contrariar as diretrizes da OMS - Organização Mundial de Saúde;   repercutir fake news e basear-se em fatos pseudocientíficos. 
  
-
-
-
-**Links externos projetos desenvolvidos em lab parceiro:**
-  
-[Frena la curva](https://frenalacurva.net/){:target="_blank"}
   
 
-**Caso sua dúvida não tenha sido respondida, por favor envie um email para:** labdeemergencia@silo.org.br
+**Caso sua dúvida não tenha sido respondida, por favor envie um email para:** [labdeemergencia@silo.org.br](mailto:labdeemergencia@silo.org.br){:target="_blank"}.
