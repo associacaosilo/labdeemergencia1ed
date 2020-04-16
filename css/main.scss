@@ -572,18 +572,18 @@ i.fa-1_5x {
   &:hover {
     filter: grayscale(0%);
   }
- width: 10%; 
- float: left;
- padding: 30px;
+ //width: 10%; 
+ //float: left;
+ //padding: 30px;
 }
 
 .parceiras-container {
     width: 100%;
- //   margin-top: 15px;
-  //  display: flex;
-  //  flex-direction: column;
-  //  flex-wrap: wrap;
-  //  justify-content: space-between;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 @media only screen and (min-width: 640px){
