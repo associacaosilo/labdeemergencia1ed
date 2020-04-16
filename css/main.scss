@@ -583,10 +583,10 @@ i.fa-1_5x {
     justify-content: space-between;
 }
 
-@media only screen and (min-width: 640px)
+@media only screen and (min-width: 640px){
 .parceiras-container {
     flex-direction: row;
-}
+}}
 
 .share-container {
   margin-top: 35px;
