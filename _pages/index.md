@@ -90,6 +90,8 @@ Para facilitar a replicabilidade dos projetos, todo o processo deve ser document
 
 Se você tiver alguma outra dúvida, escreva-nos para: [labdeemergencia@silo.org.br](mailto:labdeemergencia@silo.org.br){:target="_blank"}.
 
+---
+
 **ESSA É UMA INICIATIVA EM PARCERIA COM:**
 
 * [AMEREK](https://twitter.com/amerek_ufmg){:target="_blank"}
@@ -104,5 +106,8 @@ Se você tiver alguma outra dúvida, escreva-nos para: [labdeemergencia@silo.org
 * [PRETALAB](https://www.pretalab.com/){:target="_blank"}
 * [SEGURA A ONDA](https://seguraaonda.com.br/){:target="_blank"}
 * [SILO ARTE E LATITUDE RURAL](https://silo.org.br/){:target="_blank"}
+
+
+---
 
 **ESSA CHAMADA É INSPIRADA NA CONVOCATÓRIA DO LABORATÓRIO CIDADÃO DISTRIBUÍDO - [FRENA LA CURVA](https://frenalacurva.net/){:target="_blank"} - REALIZADO EM MARÇO DE 2020 NA ESPANHA.**

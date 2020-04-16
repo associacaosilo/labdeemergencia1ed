@@ -2,7 +2,7 @@
 layout: list
 title: Perguntas Frequentes
 proponent: 
-cover: 
+cover: perguntasfrequentes.png
 permalink: /perguntas-frequentes/
 people:
   - name: Sara Lana
