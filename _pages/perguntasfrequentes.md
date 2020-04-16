@@ -11,8 +11,6 @@ people:
 
 ![](/media/images/covers/cover3.jpg)
 
-# PERGUNTAS FREQUENTES
-
 **Posso enviar mais de 1 projeto?**
 
 Sim, porém não aconselhamos.
@@ -36,4 +34,4 @@ Sim, pois, à medida que .s colaborador.s se inscrevem, compartilharemos o link 
 [Frena la curva](https://frenalacurva.net/){:target="_blank"}
   
 
-**Contato:** labdeemergencia@silo.org.br
+**Caso sua dúvida não tenha sido respondida, por favor envie um email para:** labdeemergencia@silo.org.br
