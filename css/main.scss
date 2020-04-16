@@ -457,7 +457,7 @@ a {
     position: absolute;
     top: 0;
     left: 0;
-    background: linear-gradient(rgba(227,133,110,.4), rgba(227,133,110,.6));
+    background: linear-gradient(rgba(255,131,165,.7), rgba(0,255,231,.3));
   }
 
   .hidden-link {
@@ -572,6 +572,20 @@ i.fa-1_5x {
   &:hover {
     filter: grayscale(0%);
   }
+}
+
+.parceiras-container {
+    width: 100%;
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+@media only screen and (min-width: 640px)
+.parceiras-container {
+    flex-direction: row;
 }
 
 .share-container {

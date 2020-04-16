@@ -1,9 +1,9 @@
 ---
 layout: list
-title: Titulo
-proponent: Proponente
-cover: media/images/covers/exemplo.jpg
-permalink: /exemplo/
+title: Perguntas Frequentes
+proponent: 
+cover: media/images/covers/cover4.jpg
+permalink: /perguntas-frequentes/
 people:
   - name: Camila Macarena Picco
     url: https://www.instagram.com/camipicco
