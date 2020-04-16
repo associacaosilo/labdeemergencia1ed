@@ -17,7 +17,7 @@ Dada a situação de isolamento devido ao coronavírus, convidamos você a c
 Os projetos serão desenvolvidos de forma colaborativa por equipes multidisciplinares de pessoas que se inscreverão para participar voluntariamente assim que a proposta for publicada na plataforma. Os colaboradores são estudantxs, pesquisadorxs, profissionais ou pessoas que desejam se comprometer com alguma causa. Todos os saberes são bem-vindos.
 Esta chamada é dirigida a qualquer pessoa ou grupo interessado em apresentar propostas dentro das áreas temáticas abaixo, sobretudo para propostas partindo de, e voltadas, para periferias rurais e urbanas. Independentemente do seu nível de treinamento, especialização ou experiência dxs proponentxs.
   
-**Áreas temáticas**
+**ÁREAS TEMÁTICAS**
   
 * Sistemas econômicos de apoio a pequenos agricultores
 * Ciência cidadã, divulgação científica, ciência e sociedade *Escoamento e distribuição de mercadorias
@@ -34,7 +34,7 @@ Esta chamada é dirigida a qualquer pessoa ou grupo interessado em apresentar p
 * Sistema funerário comunitário
 * Fabricação maker, segurança sanitária e aparelhagem hospitalar
 
-**Apresentação de propostas:**
+**APRESENTAÇÃO DE PROPOSTAS:**
   
 Enviar um email para labdemergencia@silo.org.br com o título “Laboratório de Emergência”, contendo as seguintes informações:
   
@@ -51,7 +51,7 @@ Enviar um email para labdemergencia@silo.org.br com o título “Laboratório 
   
 Entende-se que o Laboratório de Emergência é uma proposta colaborativa que busca que os projetos e soluções gerados aqui atinjam o maior número possível de pessoas. Como tal, eles devem trabalhar sob uma lógica aberta e participativa que permitam sua replicação e adaptação a outros contextos.
   
-**Desenvolvimento da proposta:**
+**DESENVOLVIMENTO DA PROPOSTA:**
   
 Tantas propostas serão desenvolvidas quanto pudermos gerenciar juntos. Os projetos serão autogeridos a partir de grupos de whatsapp ou telegram. 
   
@@ -59,7 +59,7 @@ Propomos um calendário indicativo para o desenvolvimento ágil de projetos. S
   
 O laboratório não oferece recursos financeiros ou materiais para o desenvolvimento do projeto. Em cada caso, será avaliada a maneira de conectar o projeto a potenciais colaboradores que possam contribuir com os recursos necessários para sua implementação.
 
-**Calendário do Laboratório de Emergência:**
+**CALENDÁRIO DO LABORATÓRIO DE EMERGÊNCIA:**
   
 * Chamada de idéias e propostas. Até quarta-feira 21.04 às 22h
 * Chamada de colaboradores. Até domingo 25.04 às 22h
@@ -70,7 +70,7 @@ O laboratório não oferece recursos financeiros ou materiais para o desenvolv
   
 ![](/media/images/post1.jpg)
   
-**Documentação**
+**DOCUMENTAÇÃO**
   
 Para facilitar a replicabilidade dos projetos, todo o processo deve ser documentado. Criamos um guia para facilitar e orientar esta documentação.
 
@@ -78,16 +78,16 @@ Para facilitar a replicabilidade dos projetos, todo o processo deve ser document
 
 Se você tiver alguma dúvida, escreva-nos para: labdeemergencia@silo.org.br.
 
-ESSA É UMA INICIATIVA EM PARCERIA COM:
+**ESSA É UMA INICIATIVA EM PARCERIA COM:**
 
-* DATALABE
-* GAMBIÓLOGOS
-* GÊNERO E NÚMERO
-* HORTA INTELIGENTE
-* INSTITUTO PROCOMUM
-* LAB INVENTA
-* OLABI
-* PRETALAB
-* SILO ARTE E LATITUDE RURAL
+* [DATALABE](https://datalabe.org/){:target="_blank"}
+* [GAMBIOLOGIA](http://www.gambiologia.net/blog/){:target="_blank"}
+* [GÊNERO E NÚMERO](http://www.generonumero.media/){:target="_blank"}
+* [HORTA INTELIGENTE](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}
+* [LAB INVENTA](https://pt-br.facebook.com/labinventa/){:target="_blank"}
+* [LAB PROCOMUM](https://lab.procomum.org/){:target="_blank"}
+* [OLABI](https://www.olabi.org.br){:target="_blank"}
+* [PRETALAB](https://www.pretalab.com/){:target="_blank"}
+* [SILO ARTE E LATITUDE RURAL](https://silo.org.br/){:target="_blank"}
 
 ESSA CHAMADA É INSPIRADA NA CONVOCATÓRIA DO LABORATÓRIO CIDADÃO DISTRIBUÍDO - FRENA LA CURVA - REALIZADO EM MARÇO DE 2020 NA ESPANHA.
