@@ -249,6 +249,12 @@ a {
   @include media-query(DESKTOP) {
     display: block;
   }
+  .fixed-title {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%; 
+  }
 }
 
 .main-title {
@@ -273,12 +279,6 @@ a {
   }
 }
 
-.fixed-header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%; 
-}
 
 .breadcrumb-item {
   text-decoration: underline;
@@ -391,7 +391,7 @@ a {
   width: 85%;
   margin: 0 auto;
   @include media-query(DESKTOP) {
-    width: 100%;//era 85%
+    width: 85%;//era 85%
   }
 
   h2 {
