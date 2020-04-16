@@ -381,7 +381,7 @@ a {
 }
 
 .list-wrapper {
-  width: 100%;
+  width: 80%;
   margin: 0 auto;
   @include media-query(DESKTOP) {
     width: 100%;//era 85%
@@ -522,7 +522,10 @@ a {
 }
 
 .footer {
-  margin: 0 auto;
+  margin-top: 0px;
+  margin-right: 5%;
+  margin-bottom: 0px;
+  margin-left: 5%;
   box-sizing: border-box;
   width: 80%;
   padding: 12px 0;
