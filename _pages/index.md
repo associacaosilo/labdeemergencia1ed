@@ -36,18 +36,18 @@ Esta chamada é dirigida a qualquer pessoa ou grupo interessado em apresentar p
 
 **APRESENTAÇÃO DE PROPOSTAS:**
   
-Enviar um email para labdemergencia@silo.org.br com o título “Laboratório de Emergência”, contendo as seguintes informações:
+Enviar um email para [labdeemergencia@silo.org.br](mailto:labdeemergencia@silo.org.br){:target="_blank"} com o título “Laboratório de Emergência”, contendo as seguintes informações:
   
-**Dados do contato**
-*Nome
-*Organização (se houver)
-**Dados do projeto**
-*Título
-*Descrição (incluir objetivos, necessidades às quais responde, beneficiários, área geográfica de atuação)
-*Perfil(s) dos colaboradores para o projeto
-*Plano de trabalho possível (cronograma provisório, etc.)
-*Link para grupo de whatsapp ou telegram criado para desenvolvimento do projeto** (compartilharemos esse link com os colaboradores inscritos para seu projeto)
-*Se possível uma foto ou imagem para divulgação
+** Dados do contato **
+* Nome
+* Organização (se houver)
+** Dados do projeto **
+* Título
+* Descrição (incluir objetivos, necessidades às quais responde, beneficiários, área geográfica de atuação)
+* Perfil(s) dos colaboradores para o projeto
+* Plano de trabalho possível (cronograma provisório, etc.)
+* Link para grupo de whatsapp ou telegram criado para desenvolvimento do projeto** (compartilharemos esse link com os colaboradores inscritos para seu projeto)
+* Se possível uma foto ou imagem para divulgação
   
 Entende-se que o Laboratório de Emergência é uma proposta colaborativa que busca que os projetos e soluções gerados aqui atinjam o maior número possível de pessoas. Como tal, eles devem trabalhar sob uma lógica aberta e participativa que permitam sua replicação e adaptação a outros contextos.
   
@@ -76,7 +76,7 @@ Para facilitar a replicabilidade dos projetos, todo o processo deve ser document
 
 **PERGUNTAS FREQUENTES**
 
-Se você tiver alguma dúvida, escreva-nos para: labdeemergencia@silo.org.br.
+Se você tiver alguma dúvida, escreva-nos para: [labdeemergencia@silo.org.br](mailto:labdeemergencia@silo.org.br){:target="_blank"}.
 
 **ESSA É UMA INICIATIVA EM PARCERIA COM:**
 
