@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Laboratório de Emergência | COVID 19
-subtitle: <br>SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES DE ISOLAMENTO
+subtitle: SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES DE ISOLAMENTO
 permalink: /
 ---
 
@@ -38,16 +38,16 @@ Esta chamada é dirigida a qualquer pessoa ou grupo interessado em apresentar p
   
 Enviar um email para labdemergencia@silo.org.br com o título “Laboratório de Emergência”, contendo as seguintes informações:
   
-* **Dados do contato**
-* Nome
-* Organização (se houver)
-* Dados do projeto
-* Título
-* Descrição (incluir objetivos, necessidades às quais responde, beneficiários, área geográfica de atuação)
-* Perfil(s) dos colaboradores para o projeto
-* Plano de trabalho possível (cronograma provisório, etc.)
-* Link para grupo de whatsapp ou telegram criado para desenvolvimento do projeto** (compartilharemos esse link com os colaboradores inscritos para seu projeto)
-* Se possível uma foto ou imagem para divulgação
+## Dados do contato**
+**Nome**
+**Organização (se houver)
+## Dados do projeto
+**Título
+**Descrição (incluir objetivos, necessidades às quais responde, beneficiários, área geográfica de atuação)
+**Perfil(s) dos colaboradores para o projeto
+**Plano de trabalho possível (cronograma provisório, etc.)
+**Link para grupo de whatsapp ou telegram criado para desenvolvimento do projeto** (compartilharemos esse link com os colaboradores inscritos para seu projeto)
+**Se possível uma foto ou imagem para divulgação
   
 Entende-se que o Laboratório de Emergência é uma proposta colaborativa que busca que os projetos e soluções gerados aqui atinjam o maior número possível de pessoas. Como tal, eles devem trabalhar sob uma lógica aberta e participativa que permitam sua replicação e adaptação a outros contextos.
   
@@ -59,8 +59,6 @@ Propomos um calendário indicativo para o desenvolvimento ágil de projetos. S
   
 O laboratório não oferece recursos financeiros ou materiais para o desenvolvimento do projeto. Em cada caso, será avaliada a maneira de conectar o projeto a potenciais colaboradores que possam contribuir com os recursos necessários para sua implementação.
 
-![](/media/images/post1.jpg)
-  
 **Calendário do Laboratório de Emergência:**
   
 * Chamada de idéias e propostas. Até quarta-feira 21.04 às 22h
@@ -69,6 +67,8 @@ O laboratório não oferece recursos financeiros ou materiais para o desenvolv
 * Planejamento de trabalho. Terça-feira 27.04
 * Desenvolvimento de um primeiro protótipo. Até sábado 01.05
 * Apresentação dos primeiros resultados e proposta de implementação. Domingo 02.05 (manhã e tarde)
+  
+![](/media/images/post1.jpg)
   
 **Documentação**
   
