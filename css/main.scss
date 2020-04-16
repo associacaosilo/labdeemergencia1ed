@@ -4,15 +4,6 @@
 @import 'constants';
 @import url('fonts.css');
 
-.stick {
-//  width: 320px;
-//  border: 1px solid #ccc;
-//  height: 480px;
-  overflow: auto;
-  position: sticky;
-  z-index: 1;
-  top: 5%;
-}
 
 html {
   -webkit-font-smoothing: antialiased;
@@ -260,6 +251,13 @@ a {
   @include media-query(DESKTOP) {
     display: block;
   }
+}
+
+.stick {
+  overflow: auto;
+  position: sticky;
+  z-index: 1;
+  top: -5%;
 }
 
 .main-title {
@@ -607,7 +605,7 @@ i.fa-1_5x {
 }}
 
 .share-container {
-  margin-top: 35px;
+  margin-top: 34px;
   h3.share-title {
     margin-bottom: 4px;
   }
