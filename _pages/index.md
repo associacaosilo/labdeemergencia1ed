@@ -5,8 +5,7 @@ subtitle: SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES 
 permalink: /
 ---
 
-![](/media/images/post1.png)
-![](/media/images/post2.png)
+![](/media/images/cover2.jpg)
 
 Dada a situação de isolamento devido ao coronavírus, convidamos você a criar ou enviar-nos iniciativas colaborativas nos próximos 12 dias em quatro fases:
   
@@ -40,19 +39,19 @@ Esta chamada é dirigida a qualquer pessoa ou grupo interessado em apresentar p
 Enviar um email para labdemergencia@silo.org.br com o título “Laboratório de Emergência”, contendo as seguintes informações:
   
 * **Dados do contato**
-* **Nome**
-* **Organização** (se houver)
-* **Dados do projeto**
-* **Título**
-* **Descrição** (incluir objetivos, necessidades às quais responde, beneficiários, área geográfica de atuação)
-* **Perfil(s)** dos colaboradores para o projeto
-* **Plano de trabalho possível** (cronograma provisório, etc.)
-* ** Link para grupo de whatsapp ou telegram criado para desenvolvimento do projeto** (compartilharemos esse link com os colaboradores inscritos para seu projeto)
-* **Se possível uma foto ou imagem para divulgação**
+* Nome
+* Organização (se houver)
+* Dados do projeto
+* Título
+* Descrição (incluir objetivos, necessidades às quais responde, beneficiários, área geográfica de atuação)
+* Perfil(s) dos colaboradores para o projeto
+* Plano de trabalho possível (cronograma provisório, etc.)
+* Link para grupo de whatsapp ou telegram criado para desenvolvimento do projeto** (compartilharemos esse link com os colaboradores inscritos para seu projeto)
+* Se possível uma foto ou imagem para divulgação
   
 Entende-se que o Laboratório de Emergência é uma proposta colaborativa que busca que os projetos e soluções gerados aqui atinjam o maior número possível de pessoas. Como tal, eles devem trabalhar sob uma lógica aberta e participativa que permitam sua replicação e adaptação a outros contextos.
   
-** Desenvolvimento da proposta:**
+**Desenvolvimento da proposta:**
   
 Tantas propostas serão desenvolvidas quanto pudermos gerenciar juntos. Os projetos serão autogeridos a partir de grupos de whatsapp ou telegram. 
   
@@ -72,3 +71,24 @@ O laboratório não oferece recursos financeiros ou materiais para o desenvolv
 **Documentação**
   
 Para facilitar a replicabilidade dos projetos, todo o processo deve ser documentado. Criamos um guia para facilitar e orientar esta documentação.
+
+**PERGUNTAS FREQUENTES**
+
+Se você tiver alguma dúvida, escreva-nos para: labdeemergencia@silo.org.br.
+
+ESSA É UMA INICIATIVA EM PARCERIA COM:
+
+DATALABE
+GAMBIÓLOGOS
+GÊNERO E NÚMERO
+HORTA INTELIGENTE
+INSTITUTO PROCOMUM
+LAB INVENTA
+OLABI
+PRETALAB
+SILO ARTE E LATITUDE RURAL
+
+ESSA CHAMADA É INSPIRADA NA CONVOCATÓRIA DO LABORATÓRIO CIDADÃO DISTRIBUÍDO - FRENA LA CURVA - REALIZADO EM MARÇO DE 2020 NA ESPANHA.
+
+![](/media/images/post1.jpg)
+![](/media/images/post2.jpg)
