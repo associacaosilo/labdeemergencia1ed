@@ -25,6 +25,10 @@ body {
   }
 }
 
+hr {
+  border: 1px solid $SITE-ACCENT-COLOR;
+}
+
 strong {
   font-weight: bold;
 }

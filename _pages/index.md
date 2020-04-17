@@ -19,7 +19,8 @@ Dada a situação de isolamento devido ao coronavírus, convidamos você a criar
   
 Os projetos serão desenvolvidos de forma colaborativa por equipes multidisciplinares de pessoas que se inscreverão para participar voluntariamente assim que a proposta for publicada na plataforma. Os colaboradores são estudantes, pesquisadores, profissionais e ainda pessoas que desejam se comprometer com alguma causa. 
 Esta chamada é dirigida a qualquer pessoa ou grupo interessado em apresentar propostas dentro das áreas temáticas abaixo, sobretudo para propostas partindo de, e voltadas para, periferias rurais e urbanas. Independentemente do seu nível de treinamento, especialização ou experiência dos proponentes.
-
+  
+---
   
 **ÁREAS TEMÁTICAS**
   
@@ -36,8 +37,9 @@ Esta chamada é dirigida a qualquer pessoa ou grupo interessado em apresentar pr
 * Difusão cultural
 * Inclusão digital: acesso a computadores, smartphones e internet, alfabetização digital
 * Fabricação maker, segurança sanitária e aparelhagem hospitalar
-
-
+  
+  ---
+  
 **APRESENTAÇÃO DE PROPOSTAS:**
   
 Enviar um email para [labdeemergencia@silo.org.br](mailto:labdeemergencia@silo.org.br){:target="_blank"} com o título “Laboratório de Emergência”, contendo as seguintes informações:
@@ -56,6 +58,8 @@ Enviar um email para [labdeemergencia@silo.org.br](mailto:labdeemergencia@silo.o
     
 Entende-se que o Laboratório de Emergência é uma proposta colaborativa que busca que os projetos e soluções gerados aqui atinjam o maior número possível de pessoas. Como tal, eles devem trabalhar sob uma lógica aberta e participativa que permitam sua replicação e adaptação a outros contextos.
   
+  ---
+     
 **DESENVOLVIMENTO DA PROPOSTA:**
   
 Tantas propostas serão desenvolvidas quanto pudermos gerenciar juntos. Os projetos serão autogeridos a partir de grupos de whatsapp ou telegram.
@@ -70,7 +74,9 @@ Tantas propostas serão desenvolvidas quanto pudermos gerenciar juntos. Os proj
 Propomos um calendário indicativo para o desenvolvimento ágil de projetos. Sugerimos alguns marcos para tentar ir todos juntos nas diferentes fases.
   
 O laboratório não oferece recursos financeiros ou materiais para o desenvolvimento do projeto. Em cada caso, será avaliada a maneira de conectar o projeto a potenciais colaboradores que possam contribuir com os recursos necessários para sua implementação.
-
+   
+--- 
+   
 **CALENDÁRIO DO LABORATÓRIO DE EMERGÊNCIA:**
   
 * Chamada de idéias e propostas. Até quarta-feira 21.04 às 22h
@@ -82,6 +88,8 @@ O laboratório não oferece recursos financeiros ou materiais para o desenvolv
   
 ![](/media/images/post1.jpg)
   
+---
+          
 **DOCUMENTAÇÃO**
   
 Para facilitar a replicabilidade dos projetos, todo o processo deve ser documentado. Criamos um guia para facilitar e orientar esta documentação.
