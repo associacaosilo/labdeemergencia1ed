@@ -5,8 +5,6 @@ proponent:
 cover: media/images/covers/perguntasfrequentes.png
 permalink: /perguntas-frequentes/
 people:
-  - name: Sara Lana
-    url: https://touca.ninja
 ---
 
 **Posso enviar mais de 1 projeto?**
