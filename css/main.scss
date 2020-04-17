@@ -79,10 +79,10 @@ a {
 
   .show-menu {
     position: absolute;
-    left: 2 * $RESPONSIVE-SPACING;
+    left: 0;
     top: 30px;
     font-size: 24px;
-    width: 32px;
+    width: 100%;
     img {
       width: 100%;
     }
