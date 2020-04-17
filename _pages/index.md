@@ -93,7 +93,9 @@ O laboratório não oferece recursos financeiros ou materiais para o desenvolv
 **DOCUMENTAÇÃO**
   
 Para facilitar a replicabilidade dos projetos, todo o processo deve ser documentado. Criamos um guia para facilitar e orientar esta documentação.
-
+  
+  --- 
+     
 **[PERGUNTAS FREQUENTES](https://labdeemergencia.silo.org.br/perguntas-frequentes/)**
 
 Se você tiver alguma outra dúvida, escreva-nos para: [labdeemergencia@silo.org.br](mailto:labdeemergencia@silo.org.br){:target="_blank"}.
