@@ -79,12 +79,12 @@ O laboratório não oferece recursos financeiros ou materiais para o desenvolv
    
 **CALENDÁRIO DO LABORATÓRIO DE EMERGÊNCIA:**
   
-* Chamada de idéias e propostas. Até quarta-feira 21.04 às 22h
-* Chamada de colaboradores. Até domingo 25.04 às 22h
-* Criação de equipes. Segunda-feira 26.04
-* Planejamento de trabalho. Terça-feira 27.04
-* Desenvolvimento de um primeiro protótipo. Até sábado 01.05
-* Apresentação dos primeiros resultados e proposta de implementação. Domingo 02.05 (manhã e tarde)
+* Chamada de idéias e propostas. Até Terça-feira 21.04 às 22h
+* Chamada de colaboradores. Até Sábado 25.04 às 22h
+* Criação de equipes. Domingo 26.04
+* Planejamento de trabalho. Segunda-feira 27.04
+* Desenvolvimento de um primeiro protótipo. Até Sexta-feira 01.05
+* Apresentação dos primeiros resultados e proposta de implementação. Sábado 02.05 (manhã e tarde)
   
 ![](/media/images/post1.jpg)
   
