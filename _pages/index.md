@@ -8,7 +8,8 @@ permalink: /
 <br>
   
 ## INSCREVA-SE!
-# CONVOCATÓRIA PARA COLABORADOR.S
+
+![](/media/images/post2.png)
   
 Até o dia 25 de abril, estão abertas as inscrições para colaborador.s que desejam participar diretamente do desenvolvimento
 de projetos e iniciativas voltadas para o enfrentamento da COVID 19, atuando e tomando decisões junto a uma equipe de trabalho.
