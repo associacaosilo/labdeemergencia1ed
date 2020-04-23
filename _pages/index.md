@@ -13,7 +13,7 @@ permalink: /
 Até o dia 25 de abril, estão abertas as inscrições para colaborador.s que desejam participar diretamente do desenvolvimento
 de projetos e iniciativas voltadas para o enfrentamento da COVID 19, atuando e tomando decisões junto a uma equipe de trabalho.
 
-**[Confira abaixo os projetos que serão desenvolvidos.](https://labdeemergencia.silo.org.br/media/docs/Convocatoria_Colaboradores_Lab_de_Emergencia.pdf){:target="_blank"}**
+**[Confira aqui os projetos que serão desenvolvidos.](https://labdeemergencia.silo.org.br/media/docs/Convocatoria_Colaboradores_Lab_de_Emergencia.pdf){:target="_blank"}**
   
 ---
   
