@@ -1,5 +1,5 @@
 ---
-title: DIVULGAÇÃO, EM QUADRINHOS, DE INFORMAÇÕES SOBRE A COVID-19 
+title: 'DIVULGAÇÃO, EM QUADRINHOS, DE INFORMAÇÕES SOBRE A COVID-19' 
 cover: 
 noheader: true
 category: divulgacao-cientifica

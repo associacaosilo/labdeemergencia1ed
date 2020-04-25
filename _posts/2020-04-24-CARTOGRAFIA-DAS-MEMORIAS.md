@@ -1,5 +1,5 @@
 ---
-title: CARTOGRAFIA DAS MEMORIAS 
+title: 'CARTOGRAFIA DAS MEMORIAS' 
 cover: 
 noheader: true
 category: arte

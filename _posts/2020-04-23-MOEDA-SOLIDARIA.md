@@ -1,5 +1,5 @@
 ---
-title: MOEDA SOLIDÁRIA | APA SERRINHA
+title: 'MOEDA SOLIDÁRIA | APA SERRINHA'
 cover: 
 noheader: true
 category: redes-solidarias

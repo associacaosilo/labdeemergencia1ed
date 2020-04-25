@@ -1,5 +1,5 @@
 ---
-title: REDE DE NEGÓCIOS E SERVIÇOS LAB PROCOMUM
+title: 'REDE DE NEGÓCIOS E SERVIÇOS LAB PROCOMUM'
 cover: 
 noheader: true
 category: redes-solidarias
