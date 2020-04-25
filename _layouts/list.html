@@ -19,7 +19,7 @@
         {% endif %}
       </section>
       <section class="list-wrapper">
-        <h2>Projetos</h2>
+        <h2 class="list-project-title">Projetos</h2>
         <div class="post-list">
           {% assign slug = page.permalink | replace: '/', '' %}
           {% assign posts = site.posts | where:"category", slug %}
