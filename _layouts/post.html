@@ -12,7 +12,6 @@
       <section class="content-text post-content-container">
         {% unless page.path contains '_pages' %}
           <h2 class="post-title">{{ page.title }}</h2>
-          {% include post-date.html %}
         {% endunless %}
         {% if page.cover %}
           {% unless page.noheader %}
