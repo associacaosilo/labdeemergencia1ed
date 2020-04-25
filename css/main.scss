@@ -429,29 +429,6 @@ a {
     min-width: 260px;
 
     @include media-query(DESKTOP) {
-      width: 45%;
-      margin: 0 0 24px;
-    }
-
-    &:hover {
-      .list-item-image.hover-contrast {
-        transition: filter $TRANSITION-PERIOD linear;
-        filter: grayscale(90%) contrast(120%) brightness(1.2) blur(8px);
-      }
-    }
-  }
-
-    .list-item-home {
-    display: block;
-    position: relative;
-    text-transform: capitalize;
-    width: 80%;
-    overflow: hidden;
-    margin: 0 auto 24px;
-    min-height: 200px;
-    min-width: 260px;
-
-    @include media-query(DESKTOP) {
       width: 29%;
       margin: 0 0 24px;
     }
