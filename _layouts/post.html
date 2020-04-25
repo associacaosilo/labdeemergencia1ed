@@ -23,6 +23,16 @@
         {% if page.swipebox %}
           {% include swipebox.html prefix=page.swipebox project=page.category %}
         {% endif %}
+        <h2>Colaboradoras</h2>
+        
+        <ul class="people-list">
+          {% for person in page.people %}
+            <li class="project-person">
+              <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+
         {% include share.html %}
       </section>
     </div>
