@@ -43,14 +43,6 @@
        {% if page.permalink == '/perguntas-frequentes/' %}
        
        {% else %}
-        <h2>Colaboradoras</h2>
-        <ul class="people-list">
-          {% for person in page.people %}
-            <li class="project-person">
-              <a href="{{ person.url }}" target="_blank">{{ person.name }}</a>
-            </li>
-          {% endfor %}
-        </ul>
          {% endif %}
         {% include share.html %}
       </section>
