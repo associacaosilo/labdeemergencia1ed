@@ -10,7 +10,7 @@
       {% include title.html %}
       <section class="content-text">{{ content }}</section>
       <section class="list-wrapper">
-        <div class="home-list">
+        <div class="post-list">
           {% assign projets = site.pages | where:"layout", "list" %}
           {% for projet in projets %}
             {% assign pCover = site.baseurl | append: '/' | append: projet.cover %}
