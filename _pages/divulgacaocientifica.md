@@ -3,7 +3,7 @@ layout: list
 title: Divulgação científica, ciência e sociedade
 proponent: 
 cover: 
-permalink: /divulgacao-cientifica/
+permalink: /dc/
 people:
 ---
 
