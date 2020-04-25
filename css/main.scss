@@ -421,6 +421,7 @@ a {
   .list-item {
     display: block;
     position: relative;
+    text-transform: capitalize;
     width: 80%;
     overflow: hidden;
     margin: 0 auto 24px;
