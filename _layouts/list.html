@@ -19,9 +19,6 @@
         {% endif %}
       </section>
       <section class="list-wrapper">
-       {% if page.permalink == '/perguntas-frequentes/' %}
-       
-       {% else %}
         <h2>Projetos</h2>
         <div class="post-list">
           {% assign slug = page.permalink | replace: '/', '' %}
@@ -36,14 +33,8 @@
             </a>
           {% endfor %}
         </div>
-
-         {% endif %}
       </section>
       <section class="list-wrapper">
-       {% if page.permalink == '/perguntas-frequentes/' %}
-       
-       {% else %}
-         {% endif %}
         {% include share.html %}
       </section>
     </div>
