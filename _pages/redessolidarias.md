@@ -1,6 +1,6 @@
 ---
 layout: list
-title: REDES SOLIDÁRIAS PARA COMUNIDADES E BAIRROS
+title: Redes Solidárias Para comunidades e bairros
 proponent: 
 cover: 
 permalink: /redes-solidarias/

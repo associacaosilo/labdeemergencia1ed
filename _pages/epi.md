@@ -1,6 +1,6 @@
 ---
 layout: list
-title: FABRICAÇÃO DE APARATOS PARA SEGURANÇA SANITÁRIA E HOSPITALAR
+title: Fabricação de aparatos para segurança sanitária e hospitalar
 proponent: 
 cover: 
 permalink: /epi/
