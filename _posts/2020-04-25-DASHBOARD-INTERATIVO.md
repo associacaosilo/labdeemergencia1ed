@@ -7,7 +7,6 @@ swipebox:
 ---
 
 **PROPONENTE:**
-
 Tereza Satiko Nishida Pinto (Instituto de Economia Agrícola, Agência Paulista de Tecnologia dos Agronegócios, Secretaria de Agricultura e Abastecimento do Estado de São Paulo)
 
 **PERFIL DE COLABORADORES:** Profissionais atuantes na área de ciência, comunicador.s, jornalistas, pessoas de perfil acadêmico (qualquer que seja sua área de conhecimento), pessoas interessadas em aprender a manejar a ferramenta Google Data Studio.
