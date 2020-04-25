@@ -1,5 +1,5 @@
 ---
-title: CESTAS LÚDICAS & DIDÁTICAS
+title: 'CESTAS LÚDICAS & DIDÁTICAS'
 cover: 
 noheader: true
 category: distribuicao-mercadoria

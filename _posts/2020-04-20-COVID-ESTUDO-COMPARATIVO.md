@@ -1,5 +1,5 @@
 ---
-title: A QUARENTENA E A INTENSIFICAÇÃO DO TRABALHO DOMÉSTICO DE CUIDADO: UM ESTUDO COMPARATIVO ENTRE MORADORAS DA ZONA SUL CARIOCA E DO COMPLEXO DO ALEMÃO
+title: 'A quarentena e a intensificação do trabalho doméstico de cuidado: um estudo comparativo entre moradoras da zona sul carioca e do complexo do alemão'
 cover: 
 noheader: true
 category: dados

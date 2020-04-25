@@ -1,5 +1,5 @@
 ---
-title: PARANÁ CONTRA A COVID-19
+title: 'PARANÁ CONTRA A COVID-19'
 cover: 
 noheader: true
 category: redes-solidarias

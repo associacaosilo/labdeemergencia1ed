@@ -1,5 +1,5 @@
 ---
-title: COMO CUIDAMOS DE QUEM CUIDA? A situação das trabalhadoras na linha de frente do combate à Covid-19 na cidade de São Paulo
+title: 'COMO CUIDAMOS DE QUEM CUIDA? A situação das trabalhadoras na linha de frente do combate à Covid-19 na cidade de São Paulo'
 cover: 
 noheader: true
 category: dados

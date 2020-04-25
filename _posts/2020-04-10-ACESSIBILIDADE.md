@@ -1,5 +1,5 @@
 ---
-title: ACESSIBILIDADE À INFORMAÇÃO CIENTÍFICA: Temas abordados em pesquisas realizadas sobre a COVID-19
+title: 'ACESSIBILIDADE À INFORMAÇÃO CIENTÍFICA: Temas abordados em pesquisas realizadas sobre a COVID-19'
 cover: 
 noheader: true
 category: divulgacao-cientifica

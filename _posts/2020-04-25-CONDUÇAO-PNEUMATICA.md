@@ -1,5 +1,5 @@
 ---
-title: CONDUÇÃO PNEUMÁTICA 
+title: 'CONDUÇÃO PNEUMÁTICA' 
 cover: 
 noheader: true
 category: arte

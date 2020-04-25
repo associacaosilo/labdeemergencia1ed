@@ -1,5 +1,5 @@
 ---
-title: REDE DE COMUNICAÇÃO POPULAR DE ENFRENTAMENTO AO COVID-19
+title: 'REDE DE COMUNICAÇÃO POPULAR DE ENFRENTAMENTO AO COVID-19'
 cover: 
 noheader: true
 category: difusao-cultural

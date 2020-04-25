@@ -1,5 +1,5 @@
 ---
-title: AGRUPAMENTO DE TÓPICOS RELACIONADOS AO COVID-19
+title: 'AGRUPAMENTO DE TÓPICOS RELACIONADOS À COVID-19'
 cover: 
 noheader: true
 category: dados

@@ -1,5 +1,5 @@
 ---
-title: LATINIDADES PRETAS | ECONOMIA CRIATIVA
+title: 'LATINIDADES PRETAS | ECONOMIA CRIATIVA'
 cover: 
 noheader: true
 category: difusao-cultural

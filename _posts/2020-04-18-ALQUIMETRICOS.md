@@ -1,5 +1,5 @@
 ---
-title: ALQUIMÉTRICOS - BRINQUEDOS PARA A QUARENTENA
+title: 'ALQUIMÉTRICOS - BRINQUEDOS PARA A QUARENTENA'
 cover: 
 noheader: true
 category: educacao
