@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Modelagem, dados, coleta e exibição de dados científicos e sociais
+title: Sistemas de produção e apoio a pequenos agricultores
 proponent: 
 cover: 
 permalink: /apoio-a-agricultores/
