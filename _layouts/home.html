@@ -14,7 +14,7 @@
           {% assign projets = site.pages | where:"layout", "list" %}
           {% for projet in projets %}
             {% assign pCover = site.baseurl | append: '/' | append: projet.cover %}
-            <a class="list-item-home" href="{{ site.baseurl }}{{ projet.url }}">
+            <a class="list-item" href="{{ site.baseurl }}{{ projet.url }}">
               <div class="list-item-image hover-contrast"
                    style="background-image: url('{{ pCover }}');"></div>
               <div class="tint-overlay"></div>
