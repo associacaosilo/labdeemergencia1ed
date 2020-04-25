@@ -441,7 +441,7 @@ a {
     }
   }
 
-  .list-item .list-list-item {
+  .list-item.list-list-item {
     @include media-query(DESKTOP) {
       width: 48%;
     }
