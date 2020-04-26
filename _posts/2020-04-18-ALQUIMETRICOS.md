@@ -1,6 +1,6 @@
 ---
 title: 'ALQUIMÉTRICOS - BRINQUEDOS PARA A QUARENTENA'
-cover: 
+cover: media/images/covers/alquimetricos.png
 noheader: true
 category: educacao
 swipebox: 

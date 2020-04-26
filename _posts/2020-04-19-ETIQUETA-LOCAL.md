@@ -1,6 +1,6 @@
 ---
 title: ETIQUETA LOCAL
-cover: 
+cover: media/images/covers/etiqueta.png
 noheader: true
 category: educacao
 swipebox: 

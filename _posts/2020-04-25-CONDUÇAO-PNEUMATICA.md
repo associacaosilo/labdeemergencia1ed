@@ -1,6 +1,6 @@
 ---
 title: 'CONDUÇÃO PNEUMÁTICA' 
-cover: 
+cover: media/images/covers/conducaopneumatica.png
 noheader: true
 category: arte
 swipebox: 

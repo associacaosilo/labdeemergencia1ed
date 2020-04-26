@@ -1,6 +1,6 @@
 ---
 title: COMIDA PARA TODOS
-cover: 
+cover: media/images/covers/comida.png
 noheader: true
 category: redes-solidarias
 swipebox: 

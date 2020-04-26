@@ -1,6 +1,6 @@
 ---
 title: 'MOEDA SOLIDÁRIA | APA SERRINHA'
-cover: 
+cover: media/images/covers/moedasolidaria.png
 noheader: true
 category: redes-solidarias
 swipebox: 

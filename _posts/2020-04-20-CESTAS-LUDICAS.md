@@ -1,6 +1,6 @@
 ---
 title: 'CESTAS LÚDICAS & DIDÁTICAS'
-cover: 
+cover: media/images/covers/cestas.png
 noheader: true
 category: distribuicao-mercadoria
 swipebox: 

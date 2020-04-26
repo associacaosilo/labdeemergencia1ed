@@ -1,6 +1,6 @@
 ---
 title: 'LATINIDADES PRETAS | ECONOMIA CRIATIVA'
-cover: 
+cover: media/images/covers/latinidades.png
 noheader: true
 category: difusao-cultural
 swipebox: 
