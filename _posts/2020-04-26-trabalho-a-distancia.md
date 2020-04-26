@@ -15,31 +15,31 @@ Compartilharemos aqui as sugestões apresentadas ao longo do lab:
 
 ---
 
-**Ferramenta gratuita e segura para chamadas em video, streaming de webinars/videoconferências**
+* **Ferramenta gratuita e segura para chamadas em video, streaming de webinars/videoconferências**
 
 [JITSI](https://meet.jit.si/){:target= "blank"}
 
 ---
 
-**Organização de agenda, cronogramas e cruzamento de horários para grupos**
+* **Organização de agenda, cronogramas e cruzamento de horários para grupos**
 
 [DOODLE](https://doodle.com/pt_BR/){:target= "blank"}
   
 ---
    
-**Chats em grupo para enviar grandes arquivos**
+* **Chats em grupo para enviar grandes arquivos**
 
 [TELEGRAM](https://web.telegram.org/#/login){:target= "blank"}
   
 ---
     
-**Trabalhar apenas com 3G**
+* **Trabalhar apenas com 3G**
 Os grupos com limitação de internet estão criando metodologias para reunir-se no whatsapp com hora marcada.
 Apenas mensagens de áudio são trocadas, sem criar grandes fluxos de conversas para os participantes pois, com o horário marcado, todos acompanham a troca de mensagens em tempo real.
 
 --- 
   
-**Ferramenta para streaming em múltiplas plataformas**
+* **Ferramenta para streaming em múltiplas plataformas**
 
 [STREAMYARD](https://streamyard.com/){:target= "blank"}
      
