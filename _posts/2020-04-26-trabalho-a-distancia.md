@@ -33,7 +33,7 @@ Chats em grupo para enviar grandes arquivos**
 ---
     
 * **Trabalhar apenas com 3G**
-Os grupos com limitação de internet estão criando metodologias para reunir-se no whatsapp com hora marcada.
+Os grupos com limitação de internet estão reunindo-se no whatsapp com hora marcada. 
 Apenas mensagens de áudio são trocadas, sem criar grandes fluxos de conversas para os participantes pois, com o horário marcado, todos acompanham a troca de mensagens em tempo real.
 
 --- 
