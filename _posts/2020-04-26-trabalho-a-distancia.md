@@ -15,21 +15,18 @@ Compartilharemos aqui as sugestões apresentadas ao longo do lab:
 
 ---
 
-* **Ferramenta gratuita e segura para chamadas em video, streaming de webinars/videoconferências**
-
-[JITSI](https://meet.jit.si/){:target= "blank"}
+* [JITSI](https://meet.jit.si/){:target= "blank"}
+Ferramenta gratuita e segura para chamadas em video, streaming de webinars/videoconferências
 
 ---
 
-* **Organização de agenda, cronogramas e cruzamento de horários para grupos**
-
-[DOODLE](https://doodle.com/pt_BR/){:target= "blank"}
+* [DOODLE](https://doodle.com/pt_BR/){:target= "blank"}
+Organização de agenda, cronogramas e cruzamento de horários para grupos
   
 ---
    
-* **Chats em grupo para enviar grandes arquivos**
-
-[TELEGRAM](https://web.telegram.org/#/login){:target= "blank"}
+* [TELEGRAM](https://web.telegram.org/#/login){:target= "blank"}
+Chats em grupo para enviar grandes arquivos**
   
 ---
     
@@ -39,12 +36,15 @@ Apenas mensagens de áudio são trocadas, sem criar grandes fluxos de conversas 
 
 --- 
   
-* **Ferramenta para streaming em múltiplas plataformas**
-
-[STREAMYARD](https://streamyard.com/){:target= "blank"}
+* [STREAMYARD](https://streamyard.com/){:target= "blank"} 
+Ferramenta para streaming em múltiplas plataformas.
      
 --- 
   
-**Ferramenta para notas em grupo, brainstorms, organização virtual**
+* [MIRO](https://miro.com/){:target= "blank"}
+Ferramenta para notas em grupo, brainstorms, organização virtual
 
-[MIRO](https://miro.com/){:target= "blank"}
+  
+---
+
+  
