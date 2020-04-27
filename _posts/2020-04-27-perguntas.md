@@ -75,7 +75,7 @@ href="mailto:labdeemergencia@silo.org.br" target="_blank">labdeemergencia@silo.o
 
 ---
 
-** A proposta inicial mudou. Pode isso? **
+**A proposta inicial mudou. Pode isso?**
     
 Pode, no entanto:
 * deve ser feito em comum acordo com .s colaborador.s
@@ -84,7 +84,7 @@ Pode, no entanto:
 ---
 
 
-** Qual a função d.s mediador.s **
+**Qual a função d.s mediador.s**
     
 Fazer a comunicação dos grupos com nossa equipe de organização do lab. 
 Vocês podem recorrer a el.s caso tenham dúvidas, problemas, demandas ou se precisam de orientações para documentação. 
