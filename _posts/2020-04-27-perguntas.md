@@ -71,7 +71,7 @@ Mas será papel de vocês mobilizar sua equipe de colaboradores para prosseguir.
   
 É natural que algumas propostas não se adaptem à metodologia do laboratório.
 Se quiser seguir como colaborador(a) de outro projeto, por favor envie um email para:
-href="mailto:labdeemergencia@silo.org.br" target="_blank">labdeemergencia@silo.org.br</a>
+[labdeemergencia@silo.org.br](mailto:labdeemergencia@silo.org.br){target="_blank"}
 
 ---
 
