@@ -31,17 +31,18 @@ O Laboratório de Emergência é uma proposta colaborativa que busca que os proj
 ---
   
 **Posso mudar de grupo?**
-  
+    
 Sim.
      
      
 **Por qualquer motivo?**
-  
+    
 Sim.
   
 ---
     
 **Posso convidar colaboradoras que não se inscreveram?**
+  
 Sim.
 Mas é importante que novos integrantes constem na documentação final.
 Na documentação há um espaço para indicar as pessoas que de fato colaboraram com o projeto.
@@ -50,6 +51,7 @@ Isso é importante para que possamos creditá-la também no site do laboratório
 --- 
     
 **5 dias é muito pouco! O projeto pode seguir?**
+  
 Sim.
 Claro.
 Isso é sinal de êxito.
@@ -74,7 +76,7 @@ href="mailto:labdeemergencia@silo.org.br" target="_blank">labdeemergencia@silo.o
 ---
 
 ** A proposta inicial mudou. Pode isso? **
-  
+    
 Pode, no entanto:
 * deve ser feito em comum acordo com .s colaborador.s
 * é preciso avaliar se vale à pena, pois temos apenas 5 dias de trabalho.
@@ -83,7 +85,7 @@ Pode, no entanto:
 
 
 ** Qual a função d.s mediador.s **
-  
+    
 Fazer a comunicação dos grupos com nossa equipe de organização do lab. 
 Vocês podem recorrer a el.s caso tenham dúvidas, problemas, demandas ou se precisam de orientações para documentação. 
 El.s irão colocar vcs em contato com a equipe do lab.
