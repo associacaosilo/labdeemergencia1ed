@@ -27,7 +27,7 @@ Vocês podem nos enviar mais de um vídeo, desde que no total somem, no máximo,
 * **Gravação de videoconferência onde tod.s participantes do grupo apresentam conjuntamente:**
   
 Nesse caso é possível também compartilhar telas entre participantes.
-Para gravar vocês podem usar ferramentas como o [JITSI](https://meet.jit.si/){:target= "blank"} que pareado permite gravar vídeochamadas em sua conta do [Dropbox](https://dropbox.com)){:target= "blank"}.
+Para gravar vocês podem usar ferramentas como o [JITSI](https://meet.jit.si/){:target= "blank"} que pareado permite gravar vídeochamadas em sua conta do [Dropbox](https://dropbox.com){:target= "blank"}.
 
 --- 
 
