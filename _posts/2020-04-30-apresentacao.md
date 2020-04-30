@@ -9,7 +9,10 @@ swipebox:
 
 Orientações para apresentação do vídeo final:
 
+* **Data de envio:** 01.05.2020
+    
 * **Horário de envio:** 17h
+  
   Organizaremos os vídeos para publicação à partir das 19h no canal da Silo no youtube!
   
 * **Tempo máximo para apresentação:** 10 min
