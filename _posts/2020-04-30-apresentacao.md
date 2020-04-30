@@ -19,7 +19,7 @@ Vocês podem nos enviar mais de um vídeo, desde que no total somem, no máximo,
 --- 
 
   
-** SUGESTÕES (E FERRAMENTAS) PARA GRAVAÇÃO DOS VÍDEOS **
+**SUGESTÕES (E FERRAMENTAS) PARA GRAVAÇÃO DOS VÍDEOS**
   
   A forma da apresentação final depende do perfil de cada projeto. Há projetos em estágio mais avançado, outros em sua estruturação inicial. 
   
