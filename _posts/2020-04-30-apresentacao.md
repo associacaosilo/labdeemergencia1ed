@@ -56,4 +56,4 @@ Pode ser útil para apresentar projetos que finalizaram no formato de aplicativo
    
 [ScreenRecorder para Android](https://play.google.com/store/apps/details?id=com.kimcy929.screenrecorder&hl=en_GB){:target= "blank"}
 
-[Iphone](https://support.apple.com/pt-br/HT207935){:target= "blank"}
+[Como usar o gravador de tela do iphone](https://support.apple.com/pt-br/HT207935){:target= "blank"}
