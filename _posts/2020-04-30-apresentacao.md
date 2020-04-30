@@ -31,12 +31,11 @@ Para gravar vocês podem usar ferramentas como o [JITSI](https://meet.jit.si/){:
   
 Esses programas permitem gravar de uma apresentação de slides com áudio capturado pelo computador no momento da gravação. 
   
-[Passo a passo gravação de apresentação no PowerPoint](https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2016/04/como-criar-um-video-da-sua-apresentacao-no-powerpoint-com-voz.html){:target= "blank"}
+  [Passo a passo](https://www.techtudo.com.br/dicas-e-tutoriais/noticia/2016/04/como-criar-um-video-da-sua-apresentacao-no-powerpoint-com-voz.html){:target= "blank"} gravação de apresentação no PowerPoint
   
-[Passo a passo gravação de apresentação no Keynote](http://keynote.skydocu.com/pt-br/exibir-sua-apresentacao/gravar-uma-narracao-de-reproducao-automatica/){:target= "blank"}
+  [Passo a passo](http://keynote.skydocu.com/pt-br/exibir-sua-apresentacao/gravar-uma-narracao-de-reproducao-automatica/){:target= "blank"} gravação de apresentação no Keynote
   
-[Passo a passo gravação de apresentação no LibreOffice](https://www.youtube.com/watch?v=qEAHF3W4_Lc){:target= "blank"}
-No Libreoffice é necessário gravar um áudio externo. Ele apenas gera um vídeo com os slides.
+  [Passo a passo](https://www.youtube.com/watch?v=qEAHF3W4_Lc){:target= "blank"} gravação de apresentação no LibreOffice (Gravando no Libreoffice é necessário gravar um áudio externo. Ele apenas gera um vídeo com os slides)
 
 
 * **Gravação de uma tela específica de seu navegador:** 
