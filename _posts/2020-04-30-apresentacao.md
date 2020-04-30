@@ -18,11 +18,11 @@ Vocês podem nos enviar mais de um vídeo, desde que no total somem, no máximo,
 
 --- 
 
-A forma da apresentação final depende do perfil de cada projeto. Há projetos em estágio mais avançado, outros em sua estruturação inicial. 
-
-
   
-## Sugestões de ferramentas segundo os "tipos" de projeto:
+# Sugestões de ferramentas segundo os "tipos" de projeto:
+  
+  A forma da apresentação final depende do perfil de cada projeto. Há projetos em estágio mais avançado, outros em sua estruturação inicial. 
+  
  
 * **Gravação de videoconferência onde tod.s participantes do grupo apresentam conjuntamente:**
   
