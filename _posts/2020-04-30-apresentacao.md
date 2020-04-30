@@ -16,16 +16,20 @@ Orientações para apresentação do vídeo final:
 Vocês podem nos enviar mais de um vídeo, desde que no total somem, no máximo, 10 minutos.
   
 
+--- 
+
 A forma da apresentação final depende do perfil de cada projeto. Há projetos em estágio mais avançado, outros em sua estruturação inicial. 
 
 
   
-* **Sugestões de ferramentas segundo os "tipos" de projeto:**
+## Sugestões de ferramentas segundo os "tipos" de projeto:
  
 * **Gravação de videoconferência onde tod.s participantes do grupo apresentam conjuntamente:**
   
 Nesse caso é possível também compartilhar telas entre participantes.
 Para gravar vocês podem usar ferramentas como o [JITSI](https://meet.jit.si/){:target= "blank"} que pareado permite gravar vídeochamadas em sua conta do [Dropbox](https://dropbox.com)){:target= "blank"}.
+
+--- 
 
 * **Gravação de apresentação de powerpoint/keynote/libreoffice:** 
   
@@ -37,11 +41,14 @@ Esses programas permitem gravar de uma apresentação de slides com áudio captu
   
   [Passo a passo](https://www.youtube.com/watch?v=qEAHF3W4_Lc){:target= "blank"} gravação de apresentação no LibreOffice (Gravando no Libreoffice é necessário gravar um áudio externo. Ele apenas gera um vídeo com os slides)
 
+---
 
 * **Gravação de uma tela específica de seu navegador:** 
   
 Pode ser útil para apresentar projetos que finalizaram no formato de sites.
 Um exemplo é o [Screencastify](https://www.screencastify.com/){:target= "blank"} que é gratuito para gravações de até 10min (perfeito para o lab!)
+
+---
 
 * **Gravação de tela de seu celular:**
   
