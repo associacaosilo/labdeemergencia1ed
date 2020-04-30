@@ -21,6 +21,19 @@ Vocês podem nos enviar mais de um vídeo, desde que no total somem, no máximo,
 
 --- 
 
+Sugerimos explicar no vídeo: 
+
+* **O que é projeto?** 
+    
+* **O que foi desenvolvido no lab?** 
+  
+* **Qual foi o legado deixado para replicabilidade?** 
+(tutoriais, códigos abertos, conteúdo disponivel para download e einstalação)
+      
+* **Próximos passos:** O futuro do projeto
+  
+
+--- 
   
 **SUGESTÕES (E FERRAMENTAS) PARA GRAVAÇÃO DOS VÍDEOS**
   
