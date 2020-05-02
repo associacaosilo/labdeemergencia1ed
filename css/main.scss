@@ -482,9 +482,10 @@ a {
     left: 0;
     background: linear-gradient(rgba(0,255,231,.3), rgba(255,131,165,.7));
         &:hover {
-         background: linear-gradient(rgba(255,255,255,.8), rgba(255,131,165,.5));
-      }
-    }
+          .tint-overlay {
+              background: linear-gradient(rgba(255,255,255,.8), rgba(255,131,165,.5));
+          }
+        }
   }
 
   .hidden-link {
