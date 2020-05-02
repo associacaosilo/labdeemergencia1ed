@@ -1,6 +1,6 @@
 ---
 title: 'AGRUPAMENTO DE TÓPICOS RELACIONADOS À COVID-19'
-cover:  media/images/dados/G23_3.jpg
+cover:  media/images/dados/G23_3.png
 noheader: true
 category: dados
 swipebox: G23
