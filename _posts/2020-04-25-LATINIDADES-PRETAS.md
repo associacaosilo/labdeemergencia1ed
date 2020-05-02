@@ -1,16 +1,25 @@
 ---
 title: 'LATINIDADES PRETAS | ECONOMIA CRIATIVA'
-cover: media/images/covers/latinidades.png
+cover: media/images/covers/CAPA_O5.png
 noheader: true
 category: difusao-cultural
-swipebox: 
+swipebox: G05
 ---
+
+O maior festival de cultura negra e o maior festival de mulheres negras da América Latina se juntaram para gerar renda e dar suporte à empreendedoras negras da economia criativa, como forma de contribuir para a redução dos impactos econômicos do Covid-19. Isso mesmo: estamos falando de mais uma parceria entre Festival Latinidades e Feira Preta!
+  
+Mobilizamos recursos e parcerias para fazer acontecer o Latinidades Pretas - uma plataforma online para gerar renda e dar suporte à empreendimentos de mulheres negras da economia criativa, através de um edital.
+
   
 **PROPONENTE:**
 Jaqueline Fernandes de Souza Silva (Instituto Afrolatinas)
+
+
+**COLABORADOR.S:** 
+Damiso Faustino, Fabiana Duffrayer, Flaviana Lasan, Lisia Lira, Victor Audi, Nathan Tavares Nascimento 
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NAMtxhsHUuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
   
-**PERFIL DE COLABORADORES:** desenvolvedor.s, designers, artistas, ativistas, comunicador.s e produtor.s culturais.
   
-**RESUMO:**
-Criação de plataforma de armazenamento e distribuição de trabalhos realizados por artistas negras de todo país. A plataforma abrigará projetos em diversas linguagens artísticas, formatos e suportes.
-Com a necessária suspensão de eventos culturais, trabalhadoras da economia criativa se tornaram ainda mais vulnerabilizadas. Esse projeto tem, por tanto, o objetivo contribuir para a redução dos impactos econômicos do Covid-19. Através da plataforma, serão criadas estratégias para a monetização/geração de renda para as conteudistas.

@@ -1,6 +1,6 @@
 ---
 title: 'FLORA NA QUARENTENA – DIVULGAÇÃO, EM QUADRINHOS, DE INFORMAÇÕES SOBRE A COVID-19' 
-cover: 
+cover: media/images/covers/CAPA_O4.png
 noheader: true
 category: divulgacao-cientifica
 swipebox: G04

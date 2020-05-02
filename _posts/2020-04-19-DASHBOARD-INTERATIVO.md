@@ -1,6 +1,6 @@
 ---
 title: 'DASHBOARD INTERATIVO DE NOTÍCIAS E LITERATURA CIENTÍFICA SOBRE IMPACTOS DA COVID-19'
-cover: 
+cover: media/images/covers/CAPA_O1.png
 noheader: true
 category: divulgacao-cientifica
 swipebox: G01
