@@ -20,7 +20,7 @@
         {% endif %}
         {{ content }}
         {% if page.swipebox %}
-          {% include swipebox.html prefix=page.swipebox%}
+          {% include swipebox.html prefix=page.swipebox project=page.category %}
         {% endif %}
         <h2></h2>
         
