@@ -20,6 +20,8 @@ TURBA – Alice Albuquerque, Paula Motta, Renata Saffer e Roberta Alencastro (Tu
 **Área geográfica:** Comunidade Ipê São Borja, Comunidade Império e Ocupação São Luiz
 
 
+[APRESENTAÇÃO DO PROJETO](/media/docs/G27_TURBA.pdf)
+
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_vdcy-f3fDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
