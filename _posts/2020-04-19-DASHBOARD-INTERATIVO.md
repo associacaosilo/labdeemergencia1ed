@@ -16,21 +16,7 @@ Busca e recuperação de notícias digitais, literatura científica e legisl
 Tereza Satiko Nishida Pinto (Instituto de Economia Agrícola, Agência Paulista de Tecnologia dos Agronegócios, Secretaria de Agricultura e Abastecimento do Estado de São Paulo)
   
 **COLABORADOR.S:**
-Ana Paula Backes  
-Brenda Espindula  
-Bruna Barradas Cordeiro
-Carolina Puppe
-Carolina Zacanini
-Daniela Villalta
-Karen Nery
-Lilian Pavani
-Luiza de Paula
-Marcela Portela Santos de Figueiredo
-Maria Alice Dourado Sanna
-Mirna Wabi-Sabi
-Natália Armarinho Nunes
-Pedro Paulo Rosemberg da Silva Oliveira
-Vagner Azaria Martins
+Ana Paula Backes, Brenda Espindula, Bruna Barradas Cordeiro, Carolina Puppe, Carolina Zacanini, Daniela Villalta, Karen Nery, Lilian Pavani, Luiza de Paula, Marcela Portela Santos de Figueiredo, Maria Alice Dourado Sanna, Mirna Wabi-Sabi, Natália Armarinho Nunes, Pedro Paulo Rosemberg da Silva Oliveira, Vagner Azaria Martins
 
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gUTX0snK3OE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
