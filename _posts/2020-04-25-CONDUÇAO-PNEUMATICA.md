@@ -1,16 +1,19 @@
 ---
-title: 'CONDUÇÃO PNEUMÁTICA' 
+title: 'CONDUÇÃO PNEUMÁTICA: Manual do Ar' 
 cover: media/images/covers/conducaopneumatica.png
 noheader: true
 category: arte
-swipebox: 
+swipebox: G15
 ---
-  
+ 
+O projeto traz um olhar artístico e médico-terapêutico sobre o sistema respiratório, em um momento em que saúde física e mental estão no topo da agenda pública. Material escrito e ilustrado (PDF) e material audiovisual foram compostos, reunindo exercícios e jogos de respiração para fortalecer o sistema respiratório e desenvolver a coordenação motora e a concentração. A ideia é que o guia seja uma ferramenta terapêutica, ocupacional ou de aprendizado para pessoas em isolamento.
+
 **PROPONENTE:**
 Genietta Varsi
   
-**PERFIL DE COLABORADORES:** médicos especializados no sistema respiratório (otorrinolaringologistas, pneumologista, etc.), Psicólogos, Terapeutas e Musicoterapeutas, especialistas em técnicas de respiração e meditação, músicos e comunicadores.
-  
-**RESUMO:**
-Criação e publicação de uma série de partituras com exercícios respiratórios para fortalecer o corpo e acalmar a mente de pessoas de qualquer idade e circunstância.
-Devido à situação atual de insegurança e estresse se faz necessário encontrar maneiras de fornecer energia e liberar tensão.O objetivo do projeto é criar um espaço temporal de atendimento pessoal e familiar anti-stress para pessoas em quarentena em todo o mundo para promover atenção ao corpo e, assim, encontrar maneiras para relaxar, brincar e fortalecer.
+**COLABORADOR.S:** Aline Barros, Andrea Riberiro, Fabiola Fonseca, Fabrizio Tapia, Fernanda C. Mello, Gabriel Joppert, Joao Machado, Katernia Volvov, Natalia Gomes, Thiago Hersan, Rodolfo Ruscheinsky
+
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dshCH37sD7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
