@@ -1,18 +1,25 @@
 ---
 title: ENTREGA DE KITS DE AUTOCUIDADO EM SAÚDE E AGROECOLOGIA PARA MULHERES EM VULNERABILIDADE NA PERIFERIA DO RIO DE JANEIRO
-cover: 
+cover: media/images/covers/CAPA_10.png
 noheader: true
 category: redes-solidarias
-swipebox: 
+swipebox: G10
 ---
   
+Fortalecer e disseminar ações de autocuidado das mulheres da Articulação de Agroecologia do Rio de Janeiro que se encontram
+em atividades de prevenção do COVID-19 em seus territórios. Realização de cards de comunicação para campanha colaborativa e do caderno acolhedor.  
+  
 **PROPONENTE:**
-Grupo de Trabalho de Mulheres da Articulação de Agroecologia do Rio de Janeiro (GT Mulheres da AARJ)
+[Grupo de Trabalho de Mulheres da Articulação de Agroecologia do Rio de Janeiro (GT Mulheres da AARJ)](https://aarj.wordpress.com/){:target="_blank"}
   
-**PERFIL DE COLABORADORES:** técnic.s em logística, engenheir.s, motoristas, designers, ilustradores, comunicadores e redatores
-  
-**RESUMO:**
-Esta ação deseja fortalecer e disseminar ações de autocuidado entre mulheres que integram a Articulação de Agroecologia do Rio de Janeiro e que estão na linha de frente de ações comunitárias e de solidariedade. O objetivo é oferecer em caráter emergencial 20 “Cestas do cuidar-se” para 20 mulheres que estão na linha de frente em suas comunidades na periferia do Rio de Janeiro e região metropolitana. 
-Os produtos distribuídos serão feitos por mulheres agricultoras, terapeutas, homeopatas e comunicadoras populares que igualmente integram esta articulação, fortalecendo-as economicamente.
+**COLABORADOR.S:** Ines, Flora, Marina, Luísa e Barbara
 
 **Área geográfica de atuação:** Territórios fluminenses com práticas agroecológicas protagonizadas por mulheres. Em caráter emergencial serão atendidas mulheres da região Metropolitana na Serra da Misericórdia (Complexo da Penha, Complexo do Alemão e Engenho da Rainha).
+
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2LoSgm_3-p4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+[SAIBA MAIS SOBRE A AARJ](https://aarj.wordpress.com/){:target="_blank"}
