@@ -9,7 +9,7 @@ swipebox: G01
 Busca e recuperação de notícias digitais, literatura científica e legislação em temas de agropecuária e socioeconomia rural que discutem impactos da COVID-19 no estado de São Paulo. O objetivo deste levantamento é ser uma fonte de informação filtrada por palavras-chave e disponibilizada em formatos ágeis através de dashboard (relatório interativo).
 
 
-[LINK PARA DASHBOARD](https://datastudio.google.com/u/0/reporting/43874fdf-6206-4771-a12a-e799aed7ddfc?s=rR3xwn_238c){:target="_blank"}
+[VEJA AQUI O DASHBOARD CRIADO](https://datastudio.google.com/u/0/reporting/43874fdf-6206-4771-a12a-e799aed7ddfc?s=rR3xwn_238c){:target="_blank"}
 
   
 **PROPONENTE:**
