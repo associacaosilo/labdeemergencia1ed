@@ -1,6 +1,6 @@
 ---
-title: 'REDE DE COMUNICAÇÃO POPULAR DE ENFRENTAMENTO AO COVID-19'
-cover: media/images/covers/CAPA_O6.png
+title: 'MANUAL DE SOBREVIVÊNCIA PARA ARTISTAS'
+cover: media/images/difusao-cultural/GO6_3.jpeg
 noheader: true
 category: difusao-cultural
 swipebox: G06
