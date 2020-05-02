@@ -1,6 +1,6 @@
 ---
 title: 'REDE DE COMUNICAÇÃO POPULAR DE ENFRENTAMENTO AO COVID-19'
-cover: 
+cover: media/images/covers/CAPA_O6.png
 noheader: true
 category: difusao-cultural
 swipebox: G06
@@ -22,3 +22,9 @@ Coletivo de comunicadores e artistas populares da periferia de Belo Horizonte e 
 Alícia Porto, Luisa Ritter, Mariana Zani, Mike Faria, Natalia Gomes, Sofia Lungui.
 
 [ACESSE AQUI O FORMULÁRIO](https://docs.google.com/forms/d/e/1FAIpQLSfnMvmYzNQcMljRh7zqZEOXGaiRQ98gh8zxifiys2WRxDYJlg/viewform?usp=send_form){:target="_blank"}
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d5JGSz1Mz7k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+  
+  

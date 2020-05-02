@@ -1,16 +1,28 @@
 ---
 title: 'REDE DE NEGÓCIOS E SERVIÇOS LAB PROCOMUM'
-cover: 
+cover: media/images/covers/CAPA_O9.png
 noheader: true
 category: redes-solidarias
-swipebox: 
+swipebox: G09
 ---
   
+O projeto tem como objetivo compilar e promover ferramentas e informações que auxiliam e incentivam pessoas a fortalecer uma rede de negócios local.
+
 **PROPONENTE:**
 Victor Souza
+
+**COLABORADOR.S:**
+Carolina Ardente, Tainana Andrade, Fabiano Rangel e Eduardo Oliveira
+
+[CONTATO](mailto:iniciativanoisquelute@gmail.com){:target="_blank"}
+
+[INICIATIVA NÓIS QUE LUTE](https://lab.procomum.org/nos-que-lute-um-manual-da-correria-para-fortalecer-uma-rede-de-negocios-locais/){:target="_blank"}
   
-**PERFIL DE COLABORADORES:** desenvolvedores web, comunicadores, pessoas ligadas à economia criativa e colaboração.
+[REDES DE NEGÓCIOS E SERVIÇOS DO LAB PROCOMUM](https://lab.procomum.org/rede-de-negocios-servicos/){:target="_blank"}
   
-**RESUMO:**
-A Rede de Negócios e Serviços LAB Procomum majoritariamente formada por moradoras e moradores de periferias, empreendedores de impacto social, artistas periféricos e criadores, permacultores e populações tradicionais da Baixada Santista e que tem como objetivo divulgar os produtos e serviços dessas pessoas está sofrendo diretamente os impactos do isolamento social causado pela pandemia do novo coronavírus.
-A ideia é montar uma plataforma na qual essas pessoas possam oferecer seus serviços e produtos e também estimular a colaboração mútua. 
+
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/60UBztlIhkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+  
