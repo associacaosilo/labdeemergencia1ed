@@ -481,6 +481,10 @@ a {
     top: 0;
     left: 0;
     background: linear-gradient(rgba(0,255,231,.3), rgba(255,131,165,.7));
+        &:hover {
+         background: linear-gradient(rgba(255,255,255,.9), rgba(255,131,165,.1));
+      }
+    }
   }
 
   .hidden-link {
