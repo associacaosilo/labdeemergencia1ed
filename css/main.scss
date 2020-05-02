@@ -436,7 +436,8 @@ a {
     &:hover {
       .list-item-image.hover-contrast {
         transition: filter $TRANSITION-PERIOD linear;
-        filter: grayscale(90%) contrast(120%) brightness(1.2) blur(8px);
+        filter: grayscale(0%);
+        //filter: grayscale(90%) contrast(120%) //brightness(1.2) blur(8px);
       }
     }
   }
@@ -467,7 +468,8 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    filter: grayscale(90%) contrast(120%) brightness(1.2) blur(0px);
+    //filter: grayscale(90%) contrast(120%) brightness(1.2) blur(0px);
+    filter: grayscale(90%) contrast(120%) brightness(1.2);
     transition: filter $TRANSITION-PERIOD linear;
   }
 
