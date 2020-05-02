@@ -1,17 +1,17 @@
 ---
 title: APLICATIVO DE APRENDIZADO EM GOVERNANÇA
-cover: 
+cover: media/images/educacao/G17_1.jpg
 noheader: true
 category: educacao
-swipebox: 
+swipebox: G17
 ---
   
+**Egov - Game educativo sobre as estruturas de governo e formas de participação popular**
+
+O propósito é desenvolver um aplicativo que ao mesmo tempo que instrua de uma forma simples como funcionam os sistemas de governo e as instituições, permita que os usuários façam escolhas, se organizem em grupos de interesses e participem da política. Durante os dias do Laboratório de Emergencia realizaram-se discussões pelo aplicativo Whatsapp, onde foram sugeridas as formas para o app, e os mecanismos de funcionamento. Também foram apresentados vários outros exemplos de softwares e sites com propostas educativas e temas semelhantes e que podem ser parceiros do projeto.
+
+
 **PROPONENTES:**
 Luiz Adriano Daminello
   
-**PERFIL DE COLABORADORES:** pesquisadores e especialistas em governança (áreas como executivo, legislativo e judiciário), cientistas sociais, programadores e desenvolvedores de aplicativo e designers gráfico. 
-
-**RESUMO:**
-Considerando que em alguns contextos específicos o confinamento diminui a capacidade de mobilização popular para reivindicar direitos, e aumenta a tendência de intenções anti-democráticas e autoritárias adotadas por grupos dominantes, esta proposta visa a criação de um aplicativo que, de forma muito técnica, simples e acessível, instrua a população em geral, (privilegiando aquelas com menos acesso a ensinos superiores), sobre o complexo mecanismo das instituições de governança. 
-  
-Explicações do funcionamento dos órgãos executivo, legislativo, judiciário, militar, policial, sindicatos, conselhos, associações populares, com direitos e limites de cada um, comparando com sistemas de outros países. Também explicando as formas de poder que envolvem os sistemas religiosos, financeiro e de comunicação de massa, entre outros.  
+**PERFIL DE COLABORADORES:** Arthur Heringer, Inês Ferreira Marques, Mateus Sá, Brenda Cunha, Tatiana Castelo Branco, Rafaella Reinhardt, Deiner Lucian Barili, Thayla Souza, Julio Glatt Semerene Costa

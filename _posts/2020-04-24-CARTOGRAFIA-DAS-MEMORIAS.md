@@ -32,3 +32,7 @@ Keila Zaché
 * Sara Lana
 * Victor Januário
 * Wellison Silva
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qTlqSPx645c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
