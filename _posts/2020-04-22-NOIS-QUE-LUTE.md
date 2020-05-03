@@ -1,6 +1,6 @@
 ---
 title: 'NÓIS QUE LUTE'
-cover: media/images/redes-solidarias/GO9_3.20.png
+cover: media/images/redes-solidarias/GO9_3_20.png
 noheader: true
 category: redes-solidarias
 swipebox: G09

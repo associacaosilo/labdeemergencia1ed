@@ -1,6 +1,6 @@
 ---
 title: COLABORA CORONA
-cover: media/images/covers/colaboracorona.png
+cover: media/images/covers/G14.png
 noheader: true
 category: redes-solidarias
 swipebox: G14

@@ -1,6 +1,6 @@
 ---
 title: 'ALÔ SERRINHA'
-cover: 
+cover: media/images/covers/CAPA_26.png
 noheader: true
 category: distribuicao-mercadoria
 swipebox: G26
