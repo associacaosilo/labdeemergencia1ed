@@ -1,6 +1,6 @@
 ---
 title: 'ACESSIBILIDADE À INFORMAÇÃO CIENTÍFICA: Temas abordados em pesquisas realizadas sobre a COVID-19'
-cover: media/images/covers/CAPA_O3.png
+cover: media/images/covers/GO3.png
 noheader: true
 category: divulgacao-cientifica
 swipebox: G03
