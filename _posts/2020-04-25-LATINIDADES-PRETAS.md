@@ -18,6 +18,10 @@ Jaqueline Fernandes de Souza Silva (Instituto Afrolatinas)
 **COLABORADOR.S:** 
 Damiso Faustino, Fabiana Duffrayer, Flaviana Lasan, Lisia Lira, Victor Audi, Nathan Tavares Nascimento 
 
+
+**SIGA ACOMPANHANDO O PROJETO! EM BREVE O SITE SERÁ PUBLICADO!**
+
+
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NAMtxhsHUuc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

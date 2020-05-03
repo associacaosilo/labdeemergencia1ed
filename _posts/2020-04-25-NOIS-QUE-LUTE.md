@@ -1,6 +1,6 @@
 ---
 title: 'NÓIS QUE LUTE'
-cover: media/images/redes-solidarias/GO9_3_20.png
+cover: media/images/redes-solidarias/G09_3_20.png
 noheader: true
 category: redes-solidarias
 swipebox: G09
@@ -13,6 +13,9 @@ Victor Souza
 
 **COLABORADOR.S:**
 Carolina Ardente, Tainana Andrade, Fabiano Rangel e Eduardo Oliveira
+
+
+Links importantes para o projeto:
 
 [CONTATO](mailto:iniciativanoisquelute@gmail.com){:target="_blank"}
 

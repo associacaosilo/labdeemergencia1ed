@@ -14,6 +14,9 @@ Daniele Gonçalves Nunes
   
 **COLABORADOR.S:** 
 Clara Celina, Humberto Monteiro, Mateus Cabral, Marcos Pantuza, Natane Santos
+  
+  
+[PASTA COM REFERÊNCIAS, ARTIGOS E OUTROS ARQUIVOS IMPORTANTES PARA O PROJETO](https://drive.google.com/drive/u/0/folders/1mmWvJZPRPsvywQXNXhSmQrDSfOn9AiOA){:target="_blank"}
 
 <div class="video-wrapper video-wrapper-16x9">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzQD6ci6vRM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
