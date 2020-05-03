@@ -1,15 +1,23 @@
 ---
 title: ETIQUETA LOCAL
-cover: media/images/covers/etiqueta.png
+cover: media/images/covers/G19.png
 noheader: true
 category: educacao
-swipebox: 
+swipebox: G19
 ---
   
-**PROPONENTES:**
-Violeta Adelita Ribeiro Sutili
+O projeto propõe dentro de seus objetivos a difusão de recursos educacionais e culturais. A região de Criciúma se localiza no sul do estado de Santa Catarina e possui diversos produtores na zona rural, tanto na universidade da região (UNESC) bem como na prefeitura municipal, ocorrem feiras de produtos vindos da agricultura familiar, porém com a paralisação de muitas atividades, cessaram-se as feiras momentaneamente.
   
-**PERFIL DE COLABORADORES:** profissionais com experiência em plataformas de ensino, difusão de materiais educacionais (orientações sobre E-book, Pdf, Video, Redes sociais), especialistas em marketing, metodologias de empreendedorismo criativo e profissionais de arte-educação, design ou moda.
+**Durante o lab** Conseguimos fazer um grupo piloto de whatsapp para atender essas artesãs, uns pequenos vídeos de formação para ser vinculado no whatsapp e também uma pesquisa de demanda de público, esses materiais vão estar nos auxiliando a construir melhor nossa metodologia.Ampliamos nossa plataforma para o Instagram para divulgar o projeto e articular com o público local.
 
-**RESUMO:**
-Estruturar a capacitação de produtoras de artesanato rurais (comerciantes de roupas, colares, quadros, toalhas,  sabonetes, artigos de decoração) para que as mesmas possam incrementar suas vendas através de plataformas digitais e também desenvolver novos produtos que se mostrem utilitários ao cenário atual (máscaras, balaclavas e golas, por exemplo), através da reutilização de recursos funcionais disponíveis. 
+**PROPONENTES:**
+Violeta Adelita Ribeiro Sutili, Rita Suselaine Vieira, Ribeiro, Arthur Herbert Vieira Ribeiro Sutili, Leila Pessoa Bechtold e Filipe Fernandes Gabriel.
+  
+**COLABORADOR.S:** Heloísa Oss Boll, Rey Silva, Cristiane Bertoluci, Ciro Digo, Tafas, Matheus, Rafaella, Carolina
+
+
+
+[LINK PARA FORMULÁRIO ELABORADO](https://docs.google.com/forms/d/e/1FAIpQLSfgfh8xnC1pi0DAis7HLOZzmq9z6Y00lnsz7uDka2G6ZQ-tOA/viewform){:target="_blank"}
+  
+
+[INSTAGRAM DO PROJETO](https://www.instagram.com/etiqueta.local/){:target="_blank"}
