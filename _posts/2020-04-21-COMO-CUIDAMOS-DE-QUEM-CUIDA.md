@@ -1,6 +1,6 @@
 ---
 title: 'COMO CUIDAMOS DE QUEM CUIDA? A situação das trabalhadoras na linha de frente do combate à Covid-19 na cidade de São Paulo'
-cover: /media/images/dados/G24_1.jpeg
+cover: /media/images/covers/G24.jpeg
 noheader: true
 category: dados
 swipebox: G24

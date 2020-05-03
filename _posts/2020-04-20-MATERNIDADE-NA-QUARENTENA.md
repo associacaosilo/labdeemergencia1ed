@@ -1,6 +1,6 @@
 ---
 title: MATERNIDADE NA QUARENTENA
-cover: media/images/dados/G22_1.jpg
+cover: media/images/covers/G22.png
 noheader: true
 category: dados
 swipebox: G22

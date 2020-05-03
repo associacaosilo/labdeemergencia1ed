@@ -1,6 +1,6 @@
 ---
-title: 'REDE DE NEGÓCIOS E SERVIÇOS LAB PROCOMUM'
-cover: media/images/covers/CAPA_O9.png
+title: 'NÓIS QUE LUTE'
+cover: media/images/redes-solidarias/GO9_3.20.png
 noheader: true
 category: redes-solidarias
 swipebox: G09

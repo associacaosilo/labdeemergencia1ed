@@ -1,6 +1,6 @@
 ---
 title: ENTREGA DE KITS DE AUTOCUIDADO EM SAÚDE E AGROECOLOGIA PARA MULHERES EM VULNERABILIDADE NA PERIFERIA DO RIO DE JANEIRO
-cover: media/images/covers/CAPA_10.png
+cover: media/images/redes-solidarias/G10_Lab_apresentação-04.jpg
 noheader: true
 category: redes-solidarias
 swipebox: G10
