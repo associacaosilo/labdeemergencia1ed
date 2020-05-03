@@ -1,6 +1,6 @@
 ---
 title: 'MANUAL DE SOBREVIVÊNCIA PARA ARTISTAS'
-cover: media/images/difusao-cultural/G06_3.jpg
+cover: media/images/difusao-cultural/G06_1.jpeg
 noheader: true
 category: difusao-cultural
 swipebox: G06
