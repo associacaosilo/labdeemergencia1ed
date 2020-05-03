@@ -482,7 +482,7 @@ a {
     left: 0;
     background: linear-gradient(rgba(0,255,231,.3), rgba(255,131,165,.7));
         &:hover {
-          .tint-overlay {
+          .list-item-image.hover-contrast {
               background: linear-gradient(rgba(255,255,255,.8), rgba(255,131,165,.5)) !important;
           }
         }
