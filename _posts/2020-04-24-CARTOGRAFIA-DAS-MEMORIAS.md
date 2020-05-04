@@ -10,14 +10,14 @@ O objetivo do projeto é resgatar e preservar, através de relatos orais, as mem
 
 A preservação da história está intimamente ligada à necessidade de resguardar o direito à memória coletiva, nos impedindo de cair no esquecimento.
 
-[https://cartografiadasmemorias.github.io/](https://cartografiadasmemorias.github.io/){:target="_blank"}
+[https://cartografiadasmemorias.xyz/](https://cartografiadasmemorias.xyz/){:target="_blank"}
   
 [CONTATO](mailto:cartografiadasmemorias@gmail.com){:target="_blank"}
 
 [ENVIE SEU ÁUDIO DE ATÉ 5 MIN PARA 21 99658-5407](https://bit.ly/3eT5VTn){:target="_blank"}  
    
 **PROPONENTE:**
-Keila Zaché
+* Keila Zaché
 
 **COLABORADOR.S:**  
 * Beatriz Arêas
@@ -34,5 +34,5 @@ Keila Zaché
 * Wellison Silva
 
 <div class="video-wrapper video-wrapper-16x9">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qTlqSPx645c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-nLSYo4zCgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
