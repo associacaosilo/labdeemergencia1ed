@@ -9,7 +9,10 @@ swipebox: G15
 O projeto traz um olhar artístico e médico-terapêutico sobre o sistema respiratório, em um momento em que saúde física e mental estão no topo da agenda pública. Material escrito e ilustrado (PDF) e material audiovisual foram compostos, reunindo exercícios e jogos de respiração para fortalecer o sistema respiratório e desenvolver a coordenação motora e a concentração. A ideia é que o guia seja uma ferramenta terapêutica, ocupacional ou de aprendizado para pessoas em isolamento.
 
 
-[ACESSE AQUI O MANUAL DO AR](/media/docs/G16_Manual_do_ar.pdf){:target="_blank"}
+ACESSE AQUI O SITE DO PROJETO: [https://assosse.ga](https://assosse.ga/){:target="_blank"}
+
+
+BAIXE [AQUI O MANUAL DO AR](/media/docs/G16_Manual_do_ar.pdf){:target="_blank"}
 
 
 
