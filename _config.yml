@@ -4,6 +4,7 @@ subtitle: 'SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES
 
 # URL
 url: https://labdeemergencia.silo.org.br
+baseurl: '/1ed'
 silo_url: https://silo.org.br
 permalink: :categories/:title/
 include: ['_pages']
