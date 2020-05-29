@@ -12,7 +12,7 @@ O projeto traz um olhar artístico e médico-terapêutico sobre o sistema respir
 ACESSE AQUI O SITE DO PROJETO: [https://assosse.ga](https://assosse.ga/){:target="_blank"}
 
 
-BAIXE [AQUI O MANUAL DO AR](/media/docs/G16_Manual_do_ar.pdf){:target="_blank"}
+BAIXE [AQUI O MANUAL DO AR]({{ site.baseurl }}/media/docs/G16_Manual_do_ar.pdf){:target="_blank"}
 
 
 

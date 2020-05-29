@@ -30,7 +30,7 @@ Também participaram do grupo:
 * Fabiana do Couto.
   
   
-[ACESSE AQUI DOCUMENTAÇÃO COMPLETA DO PROJETO](/media/docs/G18.pdf){:target="_blank"}
+[ACESSE AQUI DOCUMENTAÇÃO COMPLETA DO PROJETO]({{ site.baseurl }}/media/docs/G18.pdf){:target="_blank"}
   
   
 
