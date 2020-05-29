@@ -11,8 +11,9 @@ Serviços online e de entrega tem se tornado cada vez mais úteis para atender a
 **PROPONENTES:**
 Rondineiler Silva de Paula e Thainara Silva de Souza Miranda
 
+<!--
 [VEJA AQUI O QUESTIONÁRIO REALIZADO]({{ site.baseurl }}/media/docs/25_questionario.pdf){:target="_blank"}
-  
+-->
   
 **COLABORADOR.S:** Fernanda Ramone, Karen Garcia, Ruben Bauer Naveira, Leonardo Ayres, Arasy Benitez Espinola, Alva Valeria Machado Nascimento
 
