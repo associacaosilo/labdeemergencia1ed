@@ -1,10 +1,11 @@
 language: ruby
+cache: bundler
 
 notifications:
   email: false
 
 install:
-  - gem install jekyll
+  - bundle install
 
 script:
     - cd ..
