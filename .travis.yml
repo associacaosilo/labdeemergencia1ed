@@ -1,23 +1,13 @@
 language: ruby
 
+services:
+  - docker
+
 notifications:
   email: false
 
-cache:
-  bundler: true
-  directories:
-    - vendor/bundle
-
-install:
-  - bundle install --deployment
+before_install:
+  - docker build -t jk .
 
 script:
-    - cd ..
-    - git clone https://thiagohersan:$GHTOKEN@github.com/associacaosilo/labdeemergencia.silo.org.br.git
-    - cd labdeemergencia.silo.org.br
-    - sed -i -e 's/git@github.com:/https:\/\/thiagohersan:$GHTOKEN@github.com\//g' .gitmodules
-    - ./deploy.sh
-
-after_script:
-  - cd ..
-  - rm -rf labdeemergencia.silo.org.br
+  - docker run -e GHTOKEN -it jk
