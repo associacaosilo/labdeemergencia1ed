@@ -1,6 +1,6 @@
 ---
 title: 'CESTAS LÚDICAS & DIDÁTICAS'
-cover: media/images/covers/G27.png
+cover: media/images/covers/G27.jpg
 noheader: true
 category: distribuicao-mercadoria
 swipebox: G27

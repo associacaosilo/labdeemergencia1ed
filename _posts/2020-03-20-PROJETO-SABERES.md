@@ -1,6 +1,6 @@
 ---
 title: PROJETO SABERES
-cover: media/images/covers/CAPA_O2.png
+cover: media/images/covers/CAPA_02.png
 noheader: true
 category: divulgacao-cientifica
 swipebox: 

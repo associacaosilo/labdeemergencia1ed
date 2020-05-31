@@ -1,6 +1,6 @@
 ---
 title: 'CONDUÇÃO PNEUMÁTICA: Manual do Ar' 
-cover: media/images/covers/G15.png
+cover: media/images/covers/G15.jpg
 noheader: true
 category: arte
 swipebox: G15
