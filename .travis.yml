@@ -1,11 +1,15 @@
 language: ruby
-cache: bundler
 
 notifications:
   email: false
 
+cache:
+  bundler: true
+  directories:
+    - vendor/bundle
+
 install:
-  - bundle install
+  - bundle install --deployment
 
 script:
     - cd ..
