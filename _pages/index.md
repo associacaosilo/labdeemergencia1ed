@@ -17,4 +17,10 @@ O lab se desenrola durante cinco dias de trabalho remoto, em grupos multidiscipl
 
 O Laboratório de Emergência é uma proposta colaborativa que busca que os projetos e soluções gerados atinjam o maior número possível de pessoas. Para tal eles trabalham sob a lógica participativa usando de licenças livres que permitam replicação e adaptação dos projetos a outros contextos.
 
-Conheça, no site da Silo, outros laboratórios que realizamos: [Interactivos](https://silo.org.br/interactivos). Esta chamada foi inspirada na Convocatória do Laboratório Cidadão Distribuído Frena La Curva, realizado em março deste ano na Espanha.
+Conheça, no site da Silo, outros laboratórios que realizamos: [Laboratórios da Silo](https://silo.org.br/interactivos/){:target="_blank"}
+
+
+**E veja a documentação de outras edições:**
+
+   
+[![](/media/images/labdeemergencia2.jpg)](https://labdeemergencia.silo.org.br/2ed){:target="_blank"}
