@@ -23,4 +23,4 @@ Conheça, no site da Silo, outros laboratórios que realizamos: [Laboratórios d
 **E veja a documentação de outras edições:**
 
      
-[![](/media/images/labdeemergencia2.jpg)](https://labdeemergencia.silo.org.br/2ed){:target="_blank"}
+[![](/media/images/labemergencia2.jpg)](https://labdeemergencia.silo.org.br/2ed){:target="_blank"}
