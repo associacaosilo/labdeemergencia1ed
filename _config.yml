@@ -13,6 +13,7 @@ include: ['_pages']
 markdown: kramdown
 port: 9666
 future: false
+theme: null
 
 # Defaults
 defaults:
