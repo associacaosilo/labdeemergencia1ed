@@ -5,7 +5,7 @@ subtitle: SOLIDARIEDADE, EXPERIMENTAÇÃO E COLABORAÇÃO SOB CONDIÇÕES 
 permalink: /
 ---
 
-Que tal se juntar a pessoas que acreditam na colaboração e na inovação para enfrentar essa epidemia? Que tal efetivamente ajudar a construir soluções?
+xxxQue tal se juntar a pessoas que acreditam na colaboração e na inovação para enfrentar essa epidemia? Que tal efetivamente ajudar a construir soluções?
 
 A [SILO ARTE E LATITUDE RURAL](https://silo.org.br/){:target="_blank"}{:target="_blank"} junto a [AMEREK](https://twitter.com/amerek_ufmg){:target="_blank"}, [DATALABE](https://datalabe.org/){:target="_blank"}, [FRENA LA CURVA](https://frenalacurva.net/){:target="_blank"}, [GAMBIOLOGIA](http://www.gambiologia.net/blog/){:target="_blank"}, [GÊNERO E NÚMERO](http://www.generonumero.media/){:target="_blank"},
 [HORTA INTELIGENTE](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [LAB INVENTA](https://pt-br.facebook.com/labinventa/){:target="_blank"}, [INSTITUTO PROCOMUM](https://www.procomum.org/){:target="_blank"}, [MEDIALAB UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [MUSEU DA MANTIQUEIRA](https://museudamantiqueira.com.br/){:target="_blank"}, [OLABI](https://www.olabi.org.br){:target="_blank"}, [PRETALAB](https://www.pretalab.com/){:target="_blank"}, [SEGURA A ONDA](https://seguraaonda.com.br/){:target="_blank"}, 
