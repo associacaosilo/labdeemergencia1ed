@@ -1,0 +1,36 @@
+name: build site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Build
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: '.'
+          destination: './_site'
+
+      - name: Push
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          publish_branch: gh-pages
+
+      - name: Dispatch
+        run: |
+          curl -X POST \
+          -H "Authorization: token ${{secrets.PUSH_TOKEN}}" \
+          -H "Accept: application/vnd.github.everest-preview+json" \
+          -H "Content-Type: application/json" \
+          https://api.github.com/repos/associacaosilo/labdeemergencia.silo.org.br/dispatches \
+          --data '{"event_type":"build-site"}'
