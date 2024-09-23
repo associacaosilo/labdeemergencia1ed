@@ -7,3 +7,5 @@ _site/
 .sass-cache/
 media/.DS_Store
 media/.DS_Store
+Gemfile.lock
+Gemfile
